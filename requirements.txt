@@ -1,0 +1,1 @@
+# pip version 23.0.1 since newer versions, 23.2.1, caused error during installation nemo :(

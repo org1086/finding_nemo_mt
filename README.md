@@ -1,0 +1,28 @@
+# Finding Nemo
+
+# Work with Nemo container
+```
+docker run --name nemo-23.06 -v $(pwd):/root/data --restart always nvcr.io/nvidia/nemo:23.06
+```
+
+## Data pre-processing
+Clone Repository
+```
+git clone https://github.com/moses-smt/mosesdecoder data/mosesdecoder
+```
+Moses Decoder is used for cleaning the corpus
+```
+perl mosesdecoder/scripts/training/clean-corpus-n.perl data/train.alt km en data/train.lengthratio 1 250 -ratio 2
+```
+Max character length normalisation
+```
+python3 max_len_filter.py
+```
+Prepare tarred dataset
+```
+python create_tarred_parallel_dataset.py --src_fname alt/train.lengthratio.norm.km --tgt_fname alt/train.lengthratio.norm.en --out_dir tarred_dataset_km_en_tokens --clean --encoder_tokenizer_name yttm --encoder_tokenizer_vocab_size 32000 --encoder_tokenizer_coverage 0.999 --encoder_tokenizer_bpe_dropout 0.1     --decoder_tokenizer_name yttm --decoder_tokenizer_vocab_size 32000 --decoder_tokenizer_coverage 0.999     --decoder_tokenizer_bpe_dropout 0.1 --max_seq_length 512 --min_seq_length 1 --tokens_in_batch 500     --lines_per_dataset_fragment 10000 --num_batches_per_tarfile 5
+```
+## Training Nemo-based km-en model
+```
+python enc_dec_nmt.py --config-path=conf --config-name=aayn_base trainer.devices=1 ~trainer.max_epochs +trainer.max_steps=100000 model.beam_size=4 model.max_generation_delta=5 model.label_smoothing=0.1 model.encoder_tokenizer.tokenizer_model=tarred_dataset_km_en_tokens/tokenizer.encoder.32000.BPE.model model.decoder_tokenizer.tokenizer_model=tarred_dataset_km_en_tokens/tokenizer.decoder.32000.BPE.model model.encoder.inner_size=2048 model.encoder.ffn_dropout=0.1 model.decoder.num_layers=6 model.decoder.hidden_size=512 model.decoder.inner_size=2048 model.decoder.num_attention_heads=8 model.decoder.ffn_dropout=0.1 model.train_ds.use_tarred_dataset=true model.train_ds.tar_files=tarred_dataset_km_en_tokens/parallel.batches.tokens.500.OP_0..306_CL.tar model.train_ds.metadata_file=tarred_dataset_km_en_tokens/metadata.tokens.500.json model.train_ds.shard_strategy=scatter model.train_ds.tokens_in_batch=500 model.optim.lr=0.001 +exp_manager.create_wandb_logger=True +exp_manager.wandb_logger_kwargs.name=exp-nmt-base-en-km +exp_manager.wandb_logger_kwargs.project=bpe-km-en-100 +exp_manager.create_checkpoint_callback=True \+exp_manager.checkpoint_callback_params.monitor=val_sacreBLEU +exp_manager.exp_dir=nemo-en-km +exp_manager.checkpoint_callback_params.mode=max
+```
