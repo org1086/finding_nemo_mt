@@ -2,8 +2,9 @@
 
 # Work with Nemo container
 ```
-docker run --name nemo-23.06 -v $(pwd):/root/data --restart always nvcr.io/nvidia/nemo:23.06
+docker run --name nemo -it -d -v /home/tdh/training_nemo_mt/:/workspace/nemo/finding_nemo/ --restart always --gpus all --ipc=host --ulimit memlock=-1 --ulimit stack=67108864 nvcr.io/nvidia/nemo:23.06
 ```
+Flags recommended by Nvidia: `--gpus all --ipc=host --ulimit memlock=-1 --ulimit stack=67108864`
 
 ## Data pre-processing
 Clone Repository
