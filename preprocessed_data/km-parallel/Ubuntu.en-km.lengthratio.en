@@ -1,0 +1,4948 @@
+Includes Gmail, Google Docs, Google+, YouTube and Picasa
+Security & Privacy
+Privacy and Activity Manager
+privacy;activity;log;zeitgeist;diagnostics;error reports;
+Files & Applications
+Security
+Search
+Diagnostics
+Password Settings
+Power Settings
+Name
+Last Used
+Activity
+Select Application
+Today, %H:%M
+Yesterday, %H:%M
+%e %B %Y, %H:%M
+Never
+From:
+To:
+Invalid Timerange
+%d %B %Y
+Music
+Videos
+Pictures
+Documents
+Presentations
+Spreadsheets
+Chat Logs
+Include:
+Exclude:
+Remove Item
+Privacy Policy
+AisleRiot Solitaire
+Play many different solitaire games
+Sound
+Animations
+Statistics
+Select Game
+_Select
+_Contents
+_Fullscreen
+_New
+_New Game
+_Redo Move
+_Restart
+_Undo Move
+_Deal
+_Leave Fullscreen
+_Pause
+You should have received a copy of the GNU General Public License along with this program. If not, see .
+foundation
+reserve
+stock
+tableau
+waste
+%s on foundation
+%s on reserve
+%s on stock
+%s on tableau
+%s on waste
+Move %s onto %s.
+Accordion
+Agnes
+Athena
+Auld Lang Syne
+Aunt Mary
+Backbone
+Bakers Dozen
+Bakers Game
+Bear River
+Beleaguered Castle
+Block Ten
+Bristol
+Camelot
+Canfield
+Carpet
+Chessboard
+Clock
+Cover
+Cruel
+Diamond Mine
+Doublets
+Eagle Wing
+Easthaven
+Eight Off
+Elevator
+Eliminator
+Escalator
+First Law
+Fortress
+Fortunes
+Forty Thieves
+Fourteen
+Freecell
+Gaps
+Gay Gordons
+Giant
+Glenwood
+Gold Mine
+Golf
+Gypsy
+Helsinki
+Hopscotch
+Isabel
+Jamestown
+Jumbo
+Kansas
+King Albert
+Kings Audience
+Klondike
+Klondike Three Decks
+Labyrinth
+Lady Jane
+Maze
+Monte Carlo
+Napoleons Tomb
+Neighbor
+Odessa
+Osmosis
+Peek
+Pileon
+Plait
+Poker
+Quatorze
+Royal East
+Saratoga
+Scorpion
+Scuffle
+Seahaven
+Sir Tommy
+Sol
+Spider
+Spider Three Decks
+Spiderette
+Straight Up
+Streets And Alleys
+Template
+Ten Across
+Terrace
+Thieves
+Thirteen
+Thumb And Pouch
+Treize
+Triple Peaks
+Union Square
+Valentine
+Westhaven
+Whitehead
+Will O The Wisp
+Yield
+Yukon
+Zebra
+JOKER
+A
+2
+3
+4
+5
+6
+7
+8
+9
+J
+Q
+K
+1
+two of clubs
+three of clubs
+four of clubs
+five of clubs
+six of clubs
+seven of clubs
+eight of clubs
+nine of clubs
+ten of clubs
+two of diamonds
+three of diamonds
+four of diamonds
+five of diamonds
+six of diamonds
+seven of diamonds
+eight of diamonds
+nine of diamonds
+ten of diamonds
+two of hearts
+three of hearts
+four of hearts
+five of hearts
+six of hearts
+seven of hearts
+eight of hearts
+nine of hearts
+ten of hearts
+two of spades
+three of spades
+four of spades
+five of spades
+six of spades
+seven of spades
+eight of spades
+nine of spades
+ten of spades
+face-down card
+black joker
+red joker
+Could not show help for “%s”
+Window width
+Window height
+Solitaire
+GNOME Solitaire
+About Solitaire
+NAME
+FreeCell Solitaire
+AisleRiot
+Wins:
+Total:
+Percentage:
+Wins
+Best:
+Worst:
+Time
+%d%%
+N/A
+%d:%02d
+Congratulations, you have won!
+Main game:
+Card games:
+Card themes:
+About AisleRiot
+GNOME Games web site
+Play “%s”
+_Don't report
+_Report
+_Game
+_View
+_Control
+_Help
+_Select Game…
+_Recently Played
+S_tatistics
+Redo the undone move
+View help for Aisleriot
+_Card Style
+_Toolbar
+_Statusbar
+Show or hide statusbar
+_Sound
+_Animations
+Score:
+Time:
+Base Card: ~a
+Base Card: Ace
+Base Card: Jack
+Base Card: Queen
+Base Card: King
+Stock left:
+Stock left: 0
+Unknown color
+the black joker
+the red joker
+the two of clubs
+the three of clubs
+the four of clubs
+the five of clubs
+the six of clubs
+the seven of clubs
+the eight of clubs
+the nine of clubs
+the ten of clubs
+the two of spades
+the three of spades
+the four of spades
+the five of spades
+the six of spades
+the seven of spades
+the eight of spades
+the nine of spades
+the ten of spades
+the two of hearts
+the three of hearts
+the four of hearts
+the five of hearts
+the six of hearts
+the seven of hearts
+the eight of hearts
+the nine of hearts
+the ten of hearts
+the two of diamonds
+the three of diamonds
+the four of diamonds
+the five of diamonds
+the six of diamonds
+the seven of diamonds
+the eight of diamonds
+the nine of diamonds
+the ten of diamonds
+Move ~a onto the foundation.
+Move ~a onto an empty foundation slot.
+Move ~a onto the tableau.
+Move ~a onto an empty tableau slot.
+Move ~a onto an empty edge slot.
+Move ~a onto an empty corner slot.
+Move ~a onto an empty top slot.
+Move ~a onto an empty bottom slot.
+Move ~a onto an empty left slot.
+Move ~a onto an empty right slot.
+Move ~a onto an empty slot.
+Remove the ten of clubs.
+Remove the ten of spades.
+Remove the ten of hearts.
+Remove the ten of diamonds.
+Redeals left:
+Base Card:
+Reserve left:
+Move waste back to stock
+Odessa is a better game. Really.
+Monitors won't give you Vitamin D -- but sunlight will...
+Fishing wire makes bad dental floss
+When without a stapler, a staple and a ruler will work
+Cards remaining: ~a
+Redeal.
+You are searching for a two.
+You are searching for a three.
+You are searching for a four.
+You are searching for a five.
+You are searching for a six.
+You are searching for a seven.
+You are searching for an eight.
+You are searching for a nine.
+You are searching for a ten.
+Unknown value
+Six Foundations
+Five Foundations
+Four Foundations
+Play a card to foundation.
+No moves.
+Remove the twos
+Remove the threes
+Remove the fours
+Remove the fives
+Remove the sixes
+Remove the sevens
+Remove the eights
+Remove the nines
+Remove the tens
+No moves are possible. Undo or start again.
+The game has no solution. Undo or start again.
+No hint available.
+Deals left: ~a
+Try moving card piles around
+Same suit
+Alternating colors
+Stock left: ~a
+Deal another hand
+Move card from waste
+Move waste to stock
+Stock remaining: ~a
+No redeals
+Base Card:
+Redeals left: ~a
+something
+Place cards on to the Tableau to form poker hands
+Shuffle mode
+Reshuffle cards
+Please fill in empty pile first.
+Four Suits
+Two Suits
+One Suit
+General's Patience
+Falling Stars
+Signora
+Redheads
+Blondes and Brunettes
+Wood
+the foundation
+Progressive Rounds
+Multiplier Scoring
+AppArmor Desktop Preferences
+Profile Generation
+Path
+YAST
+genprof
+AppArmor Rejections
+Error: Out of memory.
+Error: basedir %s is not a directory, skipping.
+Error: Could not add directory %s to search path.
+Error: Could not allocate memory.
+Permission denied
+%s: Unable to add "%s".
+%s: Unable to replace "%s".
+%s: Unable to remove "%s".
+%s: Unable to write to stdout
+%s: ASSERT: Invalid option: %d
+Addition succeeded for "%s".
+Replacement succeeded for "%s".
+Removal succeeded for "%s".
+PANIC bad increment buffer %p pos %p ext %p size %d res %p
+Unable to open %s - %s
+Memory Allocation Error: Unable to remove ^%s
+Memory Allocation Error: Unable to remove %s:%s.
+unable to serialize profile %s
+Found unexpected character: '%s'
+(network_mode) Found unexpected character: '%s'
+Warning: unable to find a suitable fs in %s, is it mounted? Use --subdomainfs to override.
+%s: Sorry. You need root privileges to run this program.
+%s: Warning! You've set this program setuid root. Anybody who can run this program can update your AppArmor profiles.
+Error: Could not read profile %s: %s.
+Memory allocation error.
+%s: Errors found in file. Aborting.
+Conflict 'a' and 'w' perms are mutually exclusive.
+Exec qualifier 'i' invalid, conflicting qualifier already specified
+Exec qualifier '%c' invalid, conflicting qualifier already specified
+Exec qualifier '%c%c' invalid, conflicting qualifier already specified
+Internal: unexpected mode character '%c' in input
+Internal error generated invalid perm 0x%llx
+AppArmor parser error: %s
+Couldn't merge entries. Out of Memory
+Failed to create alias %s -> %s
+Profile flag 'debug' is no longer valid.
+Invalid profile flag: %s.
+Assert: `rule' returned NULL.
+Invalid mode, in deny rules 'x' must not be preceded by exec qualifier 'i', 'p', or 'u'
+Invalid mode, 'x' must be preceded by exec qualifier 'i', 'p', 'c', or 'u'
+Invalid mode, 'x' must be preceded by exec qualifier 'i', 'p', or 'u'
+Assert: `network_rule' return invalid protocol.
+Assert: `change_profile' returned NULL.
+Assert: 'hat rule' returned NULL.
+Assert: 'local_profile rule' returned NULL.
+Unset boolean variable %s used in if-expression
+unsafe rule missing exec permissions
+link and exec perms conflict on a file rule using ->
+missing an end of line character? (entry: %s)
+Invalid network entry.
+Invalid capability %s.
+%s: Illegal open {, nesting groupings not allowed
+%s: Regex grouping error: Invalid number of items between {}
+%s: Regex grouping error: Invalid close }, no matching open { detected
+%s: Regex grouping error: Unclosed grouping or character class, expecting close }
+%s: Internal buffer overflow detected, %d characters exceeded
+%s: Unable to parse input line '%s'
+ERROR processing regexs for profile %s, failed to load
+ERROR adding hat access rule for profile %s
+%s: Errors found during postprocessing. Aborting.
+%s: Errors found during regex postprocess. Aborting.
+%s: Errors found during postprocess. Aborting.
+%s: Errors found in combining rules postprocessing. Aborting.
+7zip
+7zip compression/uncompression tool
+ACE
+ACE compression/uncompression tool
+Bazaar Version Control System
+ATI binary X.Org driver
+Optimized hardware acceleration of OpenGL with newer ATI graphic cards
+Installer for the Adobe Flash plugin for Mozilla
+Adobe Flash plugin
+GNOME Desktop Utilities
+Icedtea Java Plugin
+Icedtea Java Browser Plugin
+Kernel Panic
+The Kernel Panic game for the Spring engine. A fast-paced RTS with no economy.
+Commonly used applications with restricted copyright for kubuntu (mp3, avi, mpeg, TrueType, Java, Flash)
+LXDE (the Lightweight X11 Desktop Environment)
+MySQL Client
+MySQL Server
+NVidia binary X.Org driver ('version 173' driver)
+NVidia binary X.Org driver ('current' driver)
+NVidia binary X.Org driver ('version 96' driver)
+Optimized hardware acceleration of OpenGL with older nvidia graphic cards
+Open ClipArt
+Pidgin Internet Messenger Off-the-Record Plugin
+Off-the-Record Messaging plugin for pidgin
+30 useful plugins for pidgin
+RAR
+RAR compression/uncompression tool
+Spamassassin
+Arte plugin for totem
+A totem plugin to watch streams from arte.tv
+Commonly used applications with restricted copyright (mp3, avi, mpeg, TrueType, Java, Flash, Codecs)
+Unity 2D
+Commonly used applications with restricted copyright (mp3, avi, mpeg, TrueType, Java, Flash)
+GStreamer plugins for aac, xvid, mpeg2, faad
+GStreamer plugins for mms, wavpack, quicktime, musepack
+Codecs to play mpeg, divx, mpeg4, ac3, wmv and asf files
+GStreamer ffmpeg video plugin
+Codecs to play mp3, sid, mpeg1, mpeg2, AC-3, DVD (without encryption)
+GStreamer extra plugins
+Pre-School Bundle
+Primary Bundle
+Secondary Bundle
+Tertiary Bundle
+Enigmail extension for Thunderbird
+GPG support for Thunderbird
+Firefox Launchpad plugin
+Firefox Launchpad integration adds quick search for Launchpad services
+Ubufox extension for Firefox
+Ubuntu-specific configuration defaults and apt support for Firefox
+0 A.D.
+A real-time strategy game of ancient warfare
+3D Chess
+3D chess for X11
+Valued point cloud visualisation and analysis
+3depict
+4digits
+Seven Kingdoms
+Seven Kingdoms: Ancient Adversaries
+A7Xpg
+Kenta Cho's A7Xpg
+Abe's Amazing Adventure
+Side-scrolling game
+AbiWord
+Compose, edit, and view documents
+Abraca XMMS2 Client
+Manage Music
+Abuse
+A side-scrolling shoot-em-up action game
+Accerciser Accessibility Explorer
+Penguin Canfield
+Penguin Freecell
+Penguin Golf
+Penguin Mastermind
+Penguin Merlin
+Penguin Minesweeper
+Penguin Pegged
+Penguin Solitaire
+Penguin Spider
+Penguin Taipei-Editor
+Penguin Taipei
+Penguin Thornq
+AcetoneISO
+Achilles Life Simulator
+AcidRip DVD Ripper
+DVD Ripper
+AClock
+Analog Clock Dockapp
+ACM Aerial Combat Simulator
+Aconnectgui
+Acoustid Fingerprinter
+Acoustid Music fingerprinting tool
+Actionaz
+Automate tasks
+Reader
+Security & Privacy
+Privacy and Activity Manager
+Adanaxis
+Contacts
+Waste's Edge
+A 2D graphical RPG
+Adun
+Biomoleculal Simulator
+Advene Video annotation
+Aegisub
+Aeolus
+Organ Emulator
+Aeskulap Viewer
+Agave
+SimpleAgenda
+Aghermann
+Manage EEG recordings, view and score EDF files, and simulate Process S
+Edfhed
+EDF file header editor
+AGTL Geocaching Tool
+Advanced Geocaching Tool For Linux
+Airstrike
+Dogfight an enemy plane
+AisleRiot Solitaire
+Play many different solitaire games
+Akregator
+Main Menu
+Alarm Clock
+Alex the Allegator 4
+Retro platform game
+AlgoBox
+Alien Arena
+AlienBlaster
+Blast the invading aliens
+Aliki (with ALSA support)
+Aliki (with JACK support)
+Alleyoop Memory Checker
+AllTray
+Almanah Diary
+Alsamixergui
+Alsaplayer
+OpenAL-Soft Configuration Utility
+AltOS UI
+Amarok
+Amarok - Rediscover Your Music!
+AMZ Downloader
+Download with AMZ Downloader
+Amide
+Amoebax
+AMOR
+On-Screen Creature
+Amora Daemon
+Amphetamine
+Alsa Modular Synth
+Modular Software Synth
+aMSN
+MSN Messenger for Linux
+amSynth
+aMuleGUI
+aMule remote control
+aMule
+Anagramarama
+fast paced anagram puzzle game using SDL
+Dalvik Debug Monitor
+Android Hierarchy Viewer
+Angband (GTK)
+Angband (SDL)
+Angband (X11)
+Angry Drunken Dwarves
+Anjuta
+Anki
+Translator
+Apitrace Retracer
+Apper
+Listaller Package Installer
+Apper Installer
+Apper Settings
+Apper Updates
+APTonCD
+AptURL
+apvlv
+Alf's PDF Viewer Like Vim
+AQEMU
+QEMU & KVM Virtual Machine Manager
+Aqsis Shader Inspector
+Inspect compiled RenderMan Shading Language (RSL) files
+Aqualung
+ARandR
+Screen Settings
+ARAnyM JIT
+ARAnyM MMU
+Virtual Machine with MMU for FreeMiNT and Linux-m68k
+ARAnyM
+Virtual Machine for Atari 32-bit applications
+ARC Certificate Utility
+Converts between X509 and PKCS12 certificates
+ARC Proxy Generator
+Create shortlived X509 proxy certificate
+ARC Job Manager
+ARC Storage Explorer
+ARC Job Submission Tool
+Ardentryst
+Ardesia desktop sketchpad
+Ardour Digital Audio Workstation
+Record, mix and master multi-track audio
+Ardour3
+Arduino IDE
+Ario
+Client application to mpd
+Arista Transcoder
+Archiving Tool
+Ark
+Arkose Desktop Application Sandboxing
+Desktop application sandboxing
+Armagetron Advanced
+3d light cycle game
+Arora
+Artha
+Artikulate Pronunciation Trainer
+Artikulate
+asciijump
+ASEPRITE
+Sprite Editor
+AssaultCube
+Realistic first-person-shooter
+AstroMenace
+hardcore 3D space shooter with spaceship upgrade possibilities
+Asunder CD Ripper
+Asylum
+surreal platform shooting game
+Atomic Tanks
+Destroy your opponents' tanks.
+Atomix
+Atris
+Tetris-like game
+Attal
+Turn based strategy game
+Audacious
+Audacity
+Audex
+Auralquiz
+AutoKey
+AutoKey (KDE)
+AutoRenamer
+Avahi Zeroconf Browser
+Avahi SSH Server Browser
+Browse for Zeroconf-enabled SSH Servers
+Avahi VNC Server Browser
+Browse for Zeroconf-enabled VNC Servers
+Avidemux (Qt)
+Avidemux (GTK+)
+Avogadro
+AWeather
+AWS Status
+Axel
+ayttm
+Vuze
+Babiloo
+Back In Time (root)
+Bacula Administration Tool
+Bacula Director Console
+Bacula Monitor
+Balazar Brothers
+3D adventure and roleplaying game
+Balder2D
+2D overhead shooter in Zero G
+B.A.L.L.Z.
+E-Mail utility
+Balsa Mail Client
+Bangarang
+Media Player
+Banshee Media Player
+bareFTP
+Transfer files using the FTP, FTPS or SFTP protocol
+Barrage
+Barry Backup
+Backup and restore databases on the BlackBerry Handheld
+Barry Desktop Panel
+Manage BlackBerry devices from a central GUI.
+Basenji
+A portable volume indexer.
+BaseX XML Database
+Visually query and analyse your XML data
+BASIC-256
+BasKet Note Pads
+Bastard Tetris
+Go mad with this Tetris clone
+Battery Monitor (batmon)
+Bauble
+Beneath A Steel Sky
+Berusky2
+Berusky
+BetaRadio Tuner
+Between
+Bibledit-BibleTime
+Bibledit BibleTime Interface
+Bibledit-Gtk
+Bible Editor
+Bibledit-Xiphos
+Bibledit Xiphos Interface
+BibleTime
+BibShelf Book Manager
+Bibus
+Notes
+Post notes, tag files!
+Billard-GL
+Play Billard Game
+Biloba
+Biniax-2
+Colorful Logic game with arcade and tactics modes
+Bino
+3D video player
+Biogenesis
+Bitmeter
+JACK diagnostic tool
+BitPim
+CDMA Mobile Phone Tool
+BitStormLite
+A small and fast BitTorrent client
+Bittornado Client
+Bittorrent Client
+BKchem
+Black-Box
+Blam Feed Reader
+Feed reader
+BleachBit
+Blender
+3D modeling, animation, rendering and post-production
+Bless Hex Editor
+Blinken
+Blob Wars : Blob And Conquer
+Blobby Volley 2
+Volleyball Game
+Bloboats
+Blob Wars : Metal Blob Solid
+BlockOut II
+Play a 3D Tetris game
+Tetris Attack clone with spooky undertones
+Blogilo
+A KDE Blogging Client
+Bluefish Editor
+Bluetooth Manager
+Blueman Bluetooth Manager
+Bluemindo
+BlueProximity
+Bluetile
+BlueWho
+bmon
+Bandwidth monitor
+Boa Constructor
+RAD Tool for Python and WxWindows
+Boat Scenario
+Add Ons
+primavera
+BOINC Manager
+Bokken
+Bomber
+Arcade Bombing Game
+Bomberclone
+Bombono DVD
+bookletimposer
+Impose PDF documents to create booklets
+BOSSA
+Program Atmel's SAM ARM microcontrollers
+Bos Wars
+Bovo
+bpython
+Braindump
+Brain Party
+36 puzzle games for all the family
+Create and copy CDs and DVDs
+Brasero Disc Burner
+Brewtarget
+Beer calculator
+Briquolo
+An OpenGL breakout
+Brp-pacu
+Sound Analysis
+Brutal Chess
+Play 3d chess with reflection of the chessmen
+Battle Tanks
+fast 2D tank arcade game with multiplayer and split-screen modes
+The Bub's Brothers
+Bug Squish
+Bugsx
+Evolve biomorphs using genetic algorithms
+BootUp-Manager
+BurgerSpace
+Buxon
+sioc:Forum browser
+Buzztard Music Editor
+Edit buzztard song files
+bygfoot
+Byobu Terminal
+BZFlag
+Bazaar Explorer
+GUI application for using Bazaar
+Cadabra
+Cain
+MacSlow's Cairo-Clock
+Cairo-Dock
+A light and eye-candy dock and desklets for your desktop.
+calibre
+E-book library management
+E-Book Viewer
+Calligra
+Calligra Active
+Calligra Author
+Write ebooks and textbooks
+Calligra Flow
+Flowchart & Diagram Editing
+Plan
+Project Management
+Calligra Sheets
+Calligra Stage
+Calligra Words
+Write documents
+Camera
+Camera application
+Camera Monitor
+CamiTK-imp
+Computer Assisted Medical Intervention ToolKit Workbench
+Camorama Webcam Viewer
+Canorus
+Cantata
+Cantor
+KDE Frontend to Mathematical Software
+Cardpeek
+Caret
+CaRMetal
+CaRMetal interactive geometry
+Wordview Microsoft doc Viewer
+Microsoft doc document file viewer
+Catfish File Search
+Bibliographic Reference Extracting Tool
+cb2Bib
+Cbrpager
+CdCat
+Cecilia
+Sound synthesis and audio signal processing environment
+Ceferino
+Save the cows!
+Celestia (GLUT)
+Celestia (GNOME)
+CellWriter
+Cenon
+CVS Frontend
+Cervisia
+Cgoban
+Charmap
+Character map for GNUstep
+System Testing
+CheckGMail
+Gmail Notifier
+Chemtool
+CherryTree
+ChessX
+Chess database
+Childsplay
+chinese-calendar
+Chinese lunar calendar
+CHIRP
+CHIRP Radio Programming Tool
+Chocolate Doom
+Conservative Doom source port
+Chocolate Doom Setup
+Setup tool for Chocolate Doom
+Choqok
+Micro-blogging Client
+Chromium Web Browser
+Chromium B.S.U.
+Circus Linux!
+Cirkuit
+CLAM Chordata
+MP3/OGG/Wav songs chord analyser
+Analize chords (Chordata)
+CLAM Network Editor
+Edit (NetworkEditor)
+CLAM Prototyper
+Run with Prototyper
+ClamTk
+Clamz MP3 Downloader (command-line)
+Download MP3 files from AmazonMP3.com
+ClassicMenu Indicator
+Claws Mail
+Clementine
+Plays music and last.fm streams
+Play
+Pause
+Stop
+Previous
+Next
+Update Manager
+Clinica
+ClipIt
+Clipboard Manager
+CLIPS
+Clustal X
+ClusterSSH
+Coccinella
+Communication tool with a built-in whiteboard
+code-aster-gui
+Graphical command editor for Code_Aster.
+Code::Blocks IDE
+Configurable and extensible IDE
+CodeLite
+CodFis
+Colobot
+ColorCode
+ICC Profile Installer
+Install ICC profiles
+Color
+CCMX Loader
+ColorHug Documentation
+Firmware Updater
+Update the firmware on the ColorHug colorimeter
+colorname
+Comix
+Compiz
+CompizConfig Settings Manager
+Configure Compiz with CompizConfig
+Composite
+Conduit Synchronizer
+Synchronization for GNOME
+ConfClerk
+Configure-Debian
+Congruity
+Connectagram
+Classrooom control
+Converseen
+ConvertAll
+CoqIDE Proof Assistant
+Cordova Example QRCodeScanner
+cordova-ubuntu-tests
+CORE Network Emulator
+Cortina
+Cowbell Music Organizer
+CQRLOG
+Crack Attack
+Puzzle game similar to Tetris Attack
+Dungeon Crawl
+Melange
+Criticalmass
+Play a shoot-em-up a la galaxian
+Critterding
+Petri dish universe in 3D that demonstrates evolving artificial life
+Crossfire GTK Client V2
+Client for Crossfire, a multiplayer graphical RPG and adventure game
+CRRCsim
+Cryptkeeper
+Cannon Smash
+3D tabletennis game
+CTSim Computed Tomography Simulator
+Simulate the process of X-ray Computed Tomography
+Cultivation
+Curtain
+CuteCom
+Serial Terminal
+CuteSDR
+Spectrum display and demodulator of IQ radio data
+Cuyo
+Cycle
+Cyclograph GTK
+Cyclograph GTK3
+Cyclograph Qt
+Cynthiune
+Cytadela
+D-Feet
+Debug D-Bus applications
+D-RATS
+D-STAR Communication Tool
+D-RATS Map Downloader
+D-RATS Repeater
+Descent 1
+DXX-Rebirth source port of Descent: First Strike from 1995...
+Descent 2
+DXX-Rebirth source port of Descent 2: Counterstrike from 1996...
+DaemonFS
+Daisy player
+Player for DAISY Books
+Darkroom
+Darktable Photo Workflow Software
+Dasher
+dc-qt
+dconf Editor
+Debian Reference
+Decibel Audio Player
+Microblog
+Active Twitter & Identi.ca client
+News Reader
+Defendguin
+Save the Penguins
+Backups
+Back Up
+delaboratory
+enhance color and contrast
+Dell Driver Installer
+Dell Recovery
+Deluge BitTorrent Client
+Download and share files over BitTorrent
+GNU Denemo
+DeskScribe
+Desktop Webmail
+DesktopNova-Tray
+A Tray-Icon for DesktopNova
+DesktopNova
+DeSmuME (Gtk)
+Nintento DS emulator
+DeVeDe DVD/CD Video Creator
+Devhelp
+DFF
+Digital Forensics Framework
+Desktop Flickr Organizer
+Desktop Flickr Organizer for Gnome
+Dia
+Dialer
+Dialer application
+Dianara
+Dicompyler
+Radiation therapy research platform
+Dictionary Reader
+A Dict client for GNUstep
+DiffPDF
+Compare two PDF files
+Diffuse Merge Tool
+digiKam
+Dillo
+Lightweight browser
+DIN Is Noise
+Dino
+Diodon
+GTK+ Clipboard Manager
+dispcalGUI
+distcc monitor
+DjView4
+DjVu Viewer
+djvusmooth
+Graphical editor for DjVu
+dkopp
+Dlume
+docbook2odf
+Convert to OpenDocument
+Docky
+Dodgin' Diamond 2
+Little shoot-'em-up arcade game for one or two player
+Dolibarr ERP & CRM
+Dolphin
+File Manager
+Dooble
+Dopewars
+dopewars drug dealing game
+DOSBox Emulator
+Run old DOS applications
+DOS emulator
+DOS emulator "dosemu"
+Do'SSi Zo'la
+Isola game with nice graphics
+Double Commander
+Dozzaqueux
+Simulator for chemical mixtures
+Dragon Player
+Video Player
+Drascula: The Vampire Strikes Back (Français)
+classic 2D point and click adventure game
+Drascula: The Vampire Strikes Back (Deutsch)
+Drascula: The Vampire Strikes Back (Italiano)
+Drascula: The Vampire Strikes Back (Español)
+Drascula: The Vampire Strikes Back
+DRAWxtl
+Dreamchess
+a 3D chess game
+DreamPie
+An interactive Python shell
+Dr.Geo
+Dr.Geo Math Tool
+3D Acceleration
+Change 3D Acceleration options
+Driftnet
+Drivel Journal Editor
+DrPython
+drumkv1
+drumkv1 is an old school drum-kit sampler
+Drumstick Drum Grid
+Drumstick MIDI Player
+Drumstick Virtual Piano
+alevt
+Teletext Browser
+DVBcut
+Cut DVB streams
+DVCS-Autosync
+Dvd95 Converter
+Convert a DVD9 into a DVD5
+dvdisaster
+dvd::rip queue
+Queue dvd::rip projects
+dvd::rip
+Rip DVDs
+DVD Styler
+dwb
+Small and fast webkit browser
+OpenDX Data Explorer
+Visualize scientific, engineering and analytical data
+Enlightenment File Manager
+Eagle
+EasyChem Chemical Structures Editor
+easyMP3Gain
+A GUI for mp3gain, vorbisgain and aacgain
+Easystroke Gesture Recognition
+About
+Enable
+Disable
+Quit
+EasyTAG
+eboard
+eBook speaker
+Speaking e-reader
+ebook2cw
+Converts ebooks to Morse MP3s/OGGs
+Ebumeter
+Loudness meter according to EBU-R128 for JACK
+EBView
+EPWING CD-ROM dictionary viewer
+Ecere IDE
+Eclipse
+Eclipse Integrated Development Environment
+EdenMath
+Edubuntu Menu Editor
+Start LTSP-Live
+EekBoek
+Efax-gtk
+GUI front end for the efax fax program
+Eficas
+eFTE
+Eiciel
+Einstein
+EiskaltDC++ Gtk3
+EiskaltDC++ Gtk
+EiskaltDC++ Qt Mini
+EiskaltDC++ Qt
+Ekiga Softphone
+electric
+Electrical CAD System
+Lightweight Bitcoin Client
+Electrum Bitcoin Wallet
+ELinks Web Browser
+ELKI
+GNU Emacs 23
+View and edit files
+GNU Emacs 24
+Email-Reminder
+EMBOSS Explorer
+emelFM2
+2-pane Gtk+2 file manager
+Emerillon Map Viewer
+Browse maps
+emesene
+Instant messaging client for MSN, Gtalk and Facebook
+emma
+MySQL managing assistant
+Empathy Internet Messaging
+Chat on Google Talk, Facebook, MSN and many other chat services
+EMPCommand
+multi-touch-and-shoot 2d game
+VMS Empire
+emu8051
+intel 8051 emulator
+Encuentro
+Enemylines3
+semi-abstract first person 3d-shooter game
+Enemylines7
+first person 3d-shooter game
+Engauge-digitizer
+Enigma
+Entagged
+Tag Editor
+Entangle
+Image Viewer
+Browse and rotate images
+Epigrass
+Epidemics Simulator
+Epiphany Web Browser
+Epiphany
+Epoptes
+Eqonomize!
+Eric python IDE
+Full featured Python IDE
+eSpeak speech synthesizer
+Esperanza
+EtherApe
+etm_qt
+eToys
+Ettercap
+Nework sniffer/analyser
+Eat The Whistle
+arcade-style soccer game
+Euler
+Eureka DOOM Editor
+Edit maps for the game DOOM
+evilvte
+Terminal Emulator
+evilwm
+Print Preview
+Document Viewer
+Required to have EDS appear in UOA
+Evolution Mail and Calendar
+Evolvotron
+Exaile Music Player
+Excellent Bifurcation
+Ex Falso
+Mail Reader
+Web Browser
+expEYES Manual
+expEYES User Manual
+expEYES Junior Manual
+expEYES Junior User Manual
+expEYES Junior Programmer Manual
+ExpEYES Junior
+EXPEYES Junior
+expEYES
+Extace Waveform Display
+Audio Waveform Monitor
+eXtrema
+Extreme Tux Racer
+Race a penguin down a mountain
+Exult
+Exult Ultima 7 Engine
+F-Spot Photo Manager
+Organize, enjoy, and share your photos
+Qt-based download/upload manager
+FatRat
+FAUmachine
+FaustWorks
+E-book reader
+FBReader E-book reader
+fccexam
+FCC Radio Examination trainer
+FCE Ultra
+Play NES ROMs
+Fceux
+Emulate NES ROMs
+Fcitx Config Tool
+Fcitx GUI Config Tool
+Fcitx Configuration
+Change Fcitx Configuration
+Fcitx Skin Installer
+Fcitx
+fcitx-qimpanel-configtool
+fcitx皮肤配置向导-UbuntuKylin
+Fcitx Light UI
+Chinese Input Method (Use Light weight UI)
+Feh
+Image viewer
+Latin-French dictionary
+Gaffiot's dictionary is a reference book
+ferret
+Design E-R databases
+Timetable Generator
+FFADO Mixer
+Movie creator ffDiaporama
+FFGTK Router Manager
+Fax-Software and Call-Monitor for AVM FRITZ!Box or compatible
+Feeding Frenzy!
+multiplayer platform game with dwarfs fighting with/for food
+FGo!
+FlightGear Launch Control
+Launch FlightGear via FGRun
+Archive Manager
+Filelight
+FileZilla
+Download and upload files via FTP, FTPS and SFTP
+Filler
+Filler in Java Game
+Fish Fillets
+Firefox Web Browser
+Firewall
+Firewall Configuration
+fityk
+Five or More
+FlameRobin
+Administration Tool for Firebird DBMS
+Flare
+A single player, 2D-isometric, action Role-Playing Game
+fldiff
+A graphical diff program
+Flarq
+Fldigi
+Scanner Utility
+FlightGear
+flmsg
+Amateur Radio Communications
+FloboPuyo
+A tetris-like game
+Florence Virtual Keyboard
+Flowblade Movie Editor
+flpsed PDF Annotator
+Add text and annotations to PDF and PostScript documents
+FLTK Block Attack!
+FLTK Checkers
+Checkers Game
+FLTK Sudoku
+Suduku Number Game
+FLUID
+FLTK GUI Designer
+Flumotion Streaming Server Administration
+Flush
+Flwrap
+FMIT
+FocusWriter
+FoFiX
+Font Manager
+Preview, compare and manage fonts
+Font Sampler
+FontForge
+Fontmatrix
+Fonty Python Font Manager
+Foo YC20
+Organ synthesizer
+FooBillard++
+3D OpenGL Billiard Game
+Fotowall
+fotoxx
+Four-in-a-Row
+FoxtrotGPS
+Display map and GPS position
+Figaro's Password Manager 2
+Manage passwords
+fprint-demo
+FQTerm
+BBS client based on Qt library in linux
+Fracplanet
+QFractalNow
+Frama-C
+Fraqtive
+Mandelbrot family fractal generator
+FreeAlchemist
+Freebirth
+FreeCAD
+Freeciv modpack installer
+Download and install add-ons for Freeciv
+Freeciv
+Freeciv (gtk3)
+Freeciv server
+FreeCol
+FreeDiams
+Pharmaceutical drugs prescriptor assistant
+DFArc - Dink frontend
+Run, edit, install, remove and package D-Mods (Dink Modules)
+FreeDink
+Humorous zelda-like isometric adventure/RPG
+Free DM
+Multiplayer-only Clone of the first person shooter Doom
+Freedoom
+Clone of the legendary first person shooter Doom
+Freedroid
+Clear a spaceship from all droids
+Freedroid RPG
+FreeGish
+A physics based arcade game
+A free environment for rapid engineering and scientific prototyping and data processing
+FreeMat
+FreeMedForms EMR
+Open source Electronic Medical Record manager
+FreeMind
+FreeOrion
+turn-based space empire and galactic conquest computer game (client)
+Freeplane
+FreePOPs updater
+Freespace2 launcher
+FreeTennis
+FreetuxTV Television Channels Player
+Freevial
+Freevo
+FreeWheeling
+Freqtweak
+Frescobaldi
+LilyPond Music Editor
+Frets on Fire
+Friends
+Fritzing
+PCB-Suite
+Frogatto
+Frogr
+Frozen-Bubble
+Pop out the bubbles!
+FS-UAE Launcher
+Launcher for FS-UAE Amiga Emulator
+FS-UAE
+FS-UAE Amiga Emulator
+FSL 4.1
+FSlint
+File System Lint
+fv FITS Editor
+View and manipulate FITS-format files
+FTP
+Funguloids
+Those Funny Funguloids!
+Funny Boat
+a side scrolling arcade shooter game on a steamboat
+Furius ISO Mount
+Manage ISO, IMG, BIN, MDF and NRG images
+Fuse Spectrum Emulator (GTK+ version)
+Emulator of the 1980s ZX Spectrum home computer and its various clones
+Fuse Spectrum Emulator (SDL version)
+Compiz Fusion Icon
+Fuss Application Launcher
+fvwm2
+Firewall Builder
+Firewall administration tool GUI
+Fyre
+Render Peter de Jong maps
+GNOME2 IP Messenger
+IP Messenger for the GNOME2
+G3Data Graph Analyzer
+G3DViewer
+3D model viewer
+Gabedit QC-GUI
+GADMIN-BIND
+BIND DNS server administration
+GADMIN-OPENVPN-Client
+OpenVPN Client administration
+GADMIN-OPENVPN-Server
+OpenVPN server administration
+GADMIN-PROFTPD
+ProFTPD FTP server administration
+GAdmin-Rsync
+GADMIN-SAMBA
+SAMBA file, print and domain server administration
+GTK Aiksaurus
+Find Synonyms and Homonyms
+Gajim
+A GTK+ Jabber client
+Galculator
+Gallery
+Gallery Uploader
+Gally
+Alternatives Configurator
+Gamazons
+Gamazons game
+Gambas3
+Gambas3 Integrated Development Environment
+Game Conqueror
+A game hacking tool. A GUI front-end for scanmem.
+gamera-gui
+GUI for the Gamera framework
+gamgi
+Construct, view and analyse atomic structures
+GammaRay
+Qt-application inspection and manipulation tool
+gamt
+Intel AMT serial-over-lan client.
+ganyremote
+Gargoyle
+Gastman
+gatos-conf
+Gatos Configuration Editor
+xatitv
+Gaupol Subtitle Editor
+GaussSum
+Gnome Batalla Naval client
+Gnome Batalla Naval server
+gbemol
+MPD client
+GbgOffice
+GTK2 Bulgarian-English Dictionary
+GBirthday
+GBonds
+gbrainy
+GChemPaint Chemical Structures Editor
+Edit chemical 2D structures
+gcin Setup
+GNOME Comics Organizer
+Gcolor2
+Simple GTK2 color selector and picker
+Educational suite GCompris
+Educational game for ages 2 to 10
+GConf Cleaner
+Configuration Editor
+GConjugue
+Conjugates Portuguese verbs
+Access Prompt
+View file
+Gnome Crystal Crystalline Structures Viewer
+Edit and display crystalline structures
+GCstar Collections Manager
+Manage your collections of movies, games, books, music and more
+Molecules Viewer
+Display chemical 3D structures
+Chemical calculator
+Spectrum viewer
+GCX Astro-Image Processor
+Process astronomical images and control CCDs
+GDebi Package Installer
+gDesklets
+gDevilspie
+GUI for devilspie matching daemon
+gdigi
+GDIS Molecule Modeller
+GDPC Molecular Dynamic Simulator
+Geany
+A fast and lightweight IDE using GTK2
+Geary Mail
+Send and receive email
+Gebabbel
+gEcrit
+A python text editor.
+gEDA Attribute Editor
+gEDA Schematic Editor
+gEDA Schematic -> PCB Project
+Text Editor
+Geeqie
+View and manage images
+geisview
+GEIS gesture event viewer
+Periodic Table
+GeMan X BBS Client
+Gem Drop X
+GeneaTD
+Multi-touch tower defense game
+Genpo
+GENPO is the GENeral Purpose Organ.
+Gentoo
+Fully GUI-configurable, two-pane X file manager
+GeoGebra
+Create interactive mathematical constructions and applets.
+Geomview
+Geotranz
+Gerbv Gerber File Viewer
+Gerber file viewer for PCB design
+Graphical frontend to SAFT
+Gespeaker
+A frontend for espeak
+gExtractWinIcons
+Gfaim
+Gfax Facsimile Program
+Send and Receive Facsimiles
+GFCE Ultra NES Emulator
+Play Nintendo ROM files
+GFM
+GFingerPoken
+GFingerPoken logic game
+gFTP
+GGcov
+GGobi
+ghemical
+GHex
+Ghextris
+ghkl
+hkl library graphical interface.
+Giggle
+Git repository viewer
+Gigolo
+Gimmix
+Gimmix is a graphical music player daemon (MPD) client written in C.
+GIMP Image Editor
+Ginkgo CADx
+Medical Image (DICOM) Viewer
+Gip IP Address Calculator
+Calculate IP addresses and networks
+gISOMount
+Git Annex
+Track and sync the files in your Git Annex
+Git Cola
+The highly caffeinated Git GUI
+Git DAG
+Git DAG visualizer
+gitg
+Git repository browser
+Gitso
+G. JACK Clock
+Display JACK transport timecode
+G. JACK Transport
+Gjiten
+Japanese dictionary
+Gjots2 Jotter
+gKamus
+Keyboard Layout
+GkDebconf
+GKrellM System Monitor
+Monitor for CPU, memory, disks, network, mail
+gl-117
+gLabels
+Glade Interface Designer
+gladish
+LADI Session Handler
+glfer
+slow CW (QRSS) / dual-frequency CW (DFCW)
+Gliv
+View images using gdk-pixbuf and OpenGL
+Globulation 2
+Globs
+GL Open Benchmark Suite
+glogg
+gLogic
+Logic circuit simulator
+Glom
+A user-friendly database environment.
+Play with 39 tangram and more 18,000 figures
+GLPeces
+glTron
+Glurp
+Gmail Notify
+gmanedit
+GNOME Manpages Editor
+Chinese chess
+Gmerlin mixer
+Alsa mixer
+Gmerlin KBD
+Gmerlin player
+Multiformat mediaplayer
+Gmerlin plugin configurator
+Configure gmerlin plugins
+Gmerlin recorder
+Audio/video recorder
+Gmerlin transcoder
+Gmerlin multimedia transcoder
+Gmerlin visualizer
+gMFSK
+HF digital mode terminal
+Gmidimonitor (with ALSA support)
+Gmidimonitor (with JACK support)
+Gmlive
+gMobileMedia (Mobile Media Browser)
+gmorgan
+Gmount-iso
+Mount CD-ROM and DVD image iso
+Gnome Music Player Client
+Gmsh Mesh Generator
+gMTP
+A simple MTP Client for MP3 Players
+Multiplication Puzzle
+gmusicbrowser
+Jukebox for large collections of mp3/ogg/flac/mpc
+GMySQLcc
+Gtk+ MySQL Control Center
+Gnac
+Audio converter for GNOME
+Gnash SWF Viewer
+View SWF Files
+GnoeMoe
+GnoeMoe Gnome MOO Client
+Gnomad 2
+A tool for managing Creative Nomad/Zen Jukeboxes and Dell DJs
+Activity Journal
+GNOME ALSA Mixer
+ALSA sound mixer for GNOME
+Bluetooth Transfer
+Boxes
+GNOME Breakout
+BitTorrent Download Client
+Download files with BitTorrent
+Calculator
+Perform arithmetic, scientific or financial calculations
+Chess
+GNOME Clocks
+GNOME Color Chooser
+Customize your GNOME desktop
+Color Calibration
+Color Picker
+GNOME Commander
+Disks
+Manage Drives and Media
+GNOME Do
+Do things as quickly as possible (but no quicker) with your files, bookmarks, applications, music, contacts, and more!
+Documents
+Access, manage and share documents
+Font Viewer
+Genius Math Tool
+Genius Mathematical Tool and Calculator
+Gmail Inbox Monitor
+Gnome Gmail
+Integrate GMail with your desktop
+Hearts
+Klotski
+Mahjongg
+Maps
+Mastermind
+Break the hidden code!
+GNOME Media Player
+Sound Recorder
+Mines
+GNOME MPlayer
+GNOME-Mud
+The GNOME MUD Client
+Music
+Network Tools
+Nibbles
+Orca Screen Reader
+Software Install
+Software Settings
+Catalog Installer
+Gnome Paint Drawing Editor
+Create and Edit Drawings or Images
+Phone Manager
+Photos
+Access, organize and share photos
+Gnome-Pie
+Cakes don't lie.
+Power Statistics
+GNOME PPP
+GNOME Dialup Tool
+Robots
+Scheduled tasks
+GNOME Flashback Services
+Window Manager
+GNOME Shell Classic
+gnome-shell-timer Preference
+Preference Editor for gnome-shell-timer
+Evolution Calendar
+GNOME Shell Extension Preferences
+Configure GNOME Shell Extensions
+GNOME Shell
+Preview and compare fonts
+GNOME Split
+Gnome Subtitles
+Sudoku
+GNOME System Monitor
+Terminal
+New Terminal
+Tetravex
+Language Translator
+Tweak Tool
+Tweak advanced GNOME 3 settings
+GNOME Video Arcade
+Play classic arcade games
+Weather
+Gnome Catalog
+GnomeKiSS
+Gnome's KiSSeake dolls viewer
+Gnomeradio
+Listen to FM radio
+gnoMint X.509 CA Manager
+Manage X.509 certificates and CAs, easily and graphically
+Gnote
+GnoTime Tracking Tool
+GNS3
+GNS3 Graphical Network Simulator
+GNU Backgammon
+GTK or console backgammon program with analysis
+Gnubiff
+Gnubiff is a mail notification program.
+GNUbik
+3D Rubik's cube game
+Manage your finances, accounts, and investments
+GnuCash Finance Management
+GNUDoQ
+GNUDoQ, Su Doku generator and solver.
+GnuGo
+Play Go against computer opponent
+GNUjump
+GNUMail
+Mail client for GNUstep
+GNUmed
+Gnumeric Spreadsheet
+Calculation, Analysis, and Visualization of Information
+GNUnet Secured P2P
+Share files using GNU's anonymous and censorship-resistant network
+GNUnet Setup
+Configure GNUnet
+GNU Robbo
+A clone of Robbo
+gnuclient
+GNUSim8085
+Intel 8085 microprocessor simulator
+GoatTracker
+Gobby Collaborative Editor (0.4)
+Gobby Collaborative Editor (0.5)
+GoFigure2
+Visualization and Analysis of 3D+t bio-images
+Goggles Music Manager
+GoldenCheetah
+Cycling Power Analysis Software.
+GoldenDict
+Golly
+A Conway's Game of Life simulator
+Gomoku.app
+GNUstep Gomoku Game
+CD Player
+Play and extract CDs
+GOPchop
+MPEG2 GOP-accurate editor
+GoPlay!
+GoScience!
+GOsa²
+GOsa
+Gosmore Map Viewer
+View, search and route with OpenStreetMap
+Gourmet Recipe Manager
+Organize recipes, create shopping lists, calculate nutritional information, and more.
+gpa
+GNU Privacy Assistant
+Package Organizer
+GNU Paint
+GParted Partition Editor
+Create, reorganize, and delete partitions
+gPDFText ebook editor
+Edit text from ebook PDF files
+gPHPEdit
+Edit PHP source files
+Gpick
+Color picker
+GPixPod
+Organize photos on your iPod, freely!
+gPlanarity
+gPodder Podcast Client
+Pointing devices
+pommed GTK client
+GNOME Predict
+Satellite tracker
+GPRename
+gprompter
+GPSCorrelate
+Add coordinates to jpeg images using gpx files
+GpsDrive
+GPS Navigation
+gpsk31
+psk31 program for hamradio operators
+GpsPrune
+Visualize, edit and prune GPS tracks
+GPX Viewer
+GPS Trace Viewer
+Grace
+An XY plotting tool
+GrafX2
+Gramps Genealogy System
+Granatier
+Bomberman clone
+Granule
+Flashcards Program
+Graphmonkey
+GraphThing
+Create, manipulate and study graphs.
+GRASS GIS
+Gravitation
+game about mania, melancholia, and the creative process
+Gravity Wars
+Grcm
+Remotedesktop Client
+Greenwich
+gResistor
+DNS Query Tool
+Perform advanced DNS queries
+gretl
+Econometrics package
+GRhino
+Reversi game for GNOME, supporting the Go/Game Text Protocol
+Gridlock
+Griffith
+Gringotts
+Grisbi
+Gromit-MPX
+GRaphics Over MIscelaneous Things, a multi pointer annotation tool
+gromit
+Grpn Calculator
+Grr Feed Reader
+Günther's RSS Reader
+Grsync
+Synchronize files with rsync
+gscan2pdf
+File Sharing
+GShutdown
+GSmartControl
+Monitor and control SMART data on hard disks
+GTK Smith Chart Calculator
+RF Impedance calculator
+GSpiceUI
+Graphical frontend to Spice simulators
+gsql
+gSTM
+Manage SSH tunnel connections
+GTAMSAnalyzer
+Tangrams
+gtans
+GTetrinet
+Tetrinet client for GNOME
+Getting Things GNOME!
+New Task
+gThumb Image Viewer
+Gtick
+a GTK-based metronome
+GTimeLog Time Tracker
+GTimer
+GTK-based X11 task timer
+Gtk-ChTheme
+GTK+2.0 Theme Changer
+gtk-gnutella
+A GUI based Gnutella Servent
+RecordMyDesktop
+Theme Configuration
+Configure GTK theme colors
+Gtkam Digital Camera Browser
+GtkAtlantic
+GtkBalls
+Puzzle game
+Gtkboard Board Games
+gtkGuitune
+GtkHash
+Compute message digests and checksums
+gtklick
+GtkPerf
+Test GTK+ performance
+Manage music, video and photos on an Apple iPod
+gtkpod iPod Manager
+Gtk VNC Viewer
+Connect to your VNC servers
+GTKWave
+Gtranslator PO File Editor
+Translate and localize applications and libraries
+Guake Terminal
+Guayadeque Music Player
+Character Map
+APT Key Manager
+guitarix
+Gummi
+Simple LaTeX Editor
+Gunroar
+Kenta Cho's Gunroar
+UPnP AV Control Point
+gurlchecker
+GTK UVC video viewer
+Guymager
+gv
+View PS and/or PDF files
+Gvb
+GvRng
+Guido van Robot NG
+gWaei Japanese-English Dictionary
+gWakeOnLan
+A GTK+ utility to awake turned off machine using the Wake On LAN feature.
+Waterfall
+gwave
+Gnome Wave Cleaner
+Gweled
+GwenRename
+Gwenview
+GWorkspace
+GNUstep Workspace Manager
+World Clock (gworldclock)
+GWrite
+Simple text editor
+Gwyddion
+SPM data visualization and analysis
+gxmms2
+Play music
+gXNeur
+Gxtuner
+Gyrus IMAP Cyrus Administrator
+Administer the mailboxes of your IMAP Cyrus servers
+hamexam
+Ham Radio Examination trainer
+hamfax
+Send and receive radio facsimiles
+Time Tracker
+Project Hamster - track your time
+Hamster Indicator
+HandBrake
+Transcodes DVD, Bluray, and other media
+Hannah
+Foo2ZJS Firmware Downloader and Installer
+Help Hannah's Horse
+A pacman-like game
+System Profiler and Benchmark
+HasciiCam
+(h)ascii for the masses!
+Hatari UI
+hdfview
+HDF4/5 Data Browser
+HDHomeRun Config GUI
+Hedgewars
+Fighting Hedgehogs
+HelpViewer
+GNUstep Help Viewer
+HerculesStudio
+GUI front-end of hercules emulator
+Heroes
+Hex-a-hop
+Puzzle game based on hexagonal tiles
+Hexalate
+HexChat
+Hexter
+Yamaha DX7 modeling DSSI plugin
+higan
+SNES emulator
+Hijra Applet
+Hijri calendar in system tray icon
+hime Setup
+History Service Daemon
+Hitori
+Ho22bus
+Recite word easily
+HoDict
+Ho22bus's Dict
+hocr-gtk
+sane-pygtk
+HoldingNuts
+Holotz Castle
+HomeBank
+Free, easy, personal accounting for everyone.
+Artemis
+Interactive EXAFS data analysis
+Athena
+Interactive EXAFS data processing
+Hephaestus
+Horgand
+Organd Soft Synth
+HotelDruid
+Hotot Twitter Client
+Lightweight Twitter client based on Gtk2 and WebKit
+Hotot Qt
+Lightweight Twitter client based on Qt and WebKit
+Secure Shell
+HPLIP Toolbox
+Htop
+HTTraQt
+Web copier
+Hud Gui
+Hugin Calibrate Lens
+Characterise lens distortion
+Hugin Panorama Creator
+Hugin PTO generator
+Hv3 Web Browser
+XHydra
+Hydrogen
+HyperRogue
+A non-euclidean graphical rogue-like game
+i3
+improved dynamic tiling window manager
+Iagno
+IBus Anthy Setup
+Set up IBus Anthy engine
+Cangjie Preferences
+Quick Preferences
+IBus Hangul Preferences
+Set IBus Hangul Preferences
+IBus Input Pad Setup
+Set up IBus Input Pad engine
+IBus LibBopomofo Preferences
+Set ibus-libbopomofo Preferences
+IBus LibPinyin Setup
+Set ibus-libpinyin Preferences
+IBus Bopomofo Preferences
+Set ibus-Bopomofo Preferences
+IBus Pinyin Setup
+Set ibus-pinyin Preferences
+IceBreaker
+Icemon
+IcedTea Java Web Start
+IcedTea Web Control Panel
+Configure IcedTea Web (javaws and plugin)
+Internet DJ Console
+IDLE (using Python-2.7)
+Integrated Development Environment for Python (using Python-2.7)
+IDLE (using Python-3.3)
+Integrated Development Environment for Python (using Python-3.3)
+IDLE (using Python-3.4)
+Integrated Development Environment for Python (using Python-3.4)
+IDLE 3
+IDLE
+ifpgui
+KDE-style GUI for iRiver iFP flash players
+IFRIT 3D Data Visualization
+ii-esu
+HIZ's ES
+Shrew Soft VPN Access Manager
+Input Method
+ImageJ
+Image processing and analysis
+ImageMagick (display)
+ImageVis3D
+Imagination
+A lightweight DVD slideshow maker using GTK+2
+Imview Image Viewer
+indicator-china-weather
+Inkscape Vector Graphics Editor
+INSTEAD
+Intone
+InVesalius-3.0
+iptux
+Lan communication software
+Enhanced interactive Python qtconsole
+IPython Qt console
+Pylab
+Pylab (inline plots)
+IPython3 Qt console
+Enhanced interactive Python shell
+ipython3
+ipython
+Ircp Tray
+A simple OBEX file transfer applet
+iriverter
+Isag System Activity Grapher
+Isenkram
+ISO Master
+Read, write and modify ISO images
+Istanbul Desktop Session Recorder
+iTALC Client
+iTALC Master
+3D Structure Segmentation
+ITK-SNAP
+Jaaa (with ALSA support)
+JabRef
+JACK Keyboard
+Jack Mixer
+JACK Rack
+Stereo LADSPA effects rack
+JackEQ
+Jajuk
+Jajuk Advanced Jukebox
+JAMin
+JACK Audio Mastering interface
+Japa (with ALSA support)
+Japa (with JACK support)
+Jargon Informatique
+JavaMorph
+Merge two human-face-JPEGs!
+Jaxe
+XML Editor
+JClic
+Multimedia educational activities: puzzles, associations, text exercises, crosswords, scrambled letters, etc.
+JD 2ch browser
+JD is a 2ch browser based on gtkmm2.
+jEdit
+Jeex
+Jemboss
+Jester
+board game similar to Othello
+JFractionLab
+Calculate Fractions is fun!
+JFTP
+Java GUI client for FTP, SMB, SFTP and NFS
+GNOME Build Tool
+Build GNOME modules
+jigzo
+Jitsi
+VoIP and Instant Messaging client
+Jkmeter
+JMeter
+Jmeters
+Jmol
+Molecular Viewer
+Jnoisemeter
+System Jobs
+Josm
+Editor for OpenStreetMap.org
+Jovie
+J-Pilot
+jscribble
+Infinite Notepad
+jstest-gtk
+JSymphonic
+File manager for Sony MP3 players
+JuffEd text editor
+JuK
+Jump'n'Bump
+JXplorer
+Java LDAP Browser
+K3b
+New eMovix Project
+K-3D
+Free-as-in-freedom 3D modeling and animation software
+K4DirStat
+Kabikaboo
+KAddressBook
+Contact Manager
+Kadu
+Gadu-Gadu/XMPP protocol client
+Kaffeine
+Kajongg
+KAlarm
+KAlgebra
+KAlgebra Mobile
+Kalzium
+Kamerka
+Kamoso
+Hira Drill
+Kanagram
+KDE Letter Order Game
+Kana test
+kanyremote
+Kapman
+KDE Template Generator
+KAppTemplate
+Anthy Dictionary editor
+Edit Anthy dictionary.
+Kate
+KAtomic
+Sokoban-like Logic Game
+Katoob
+Kayali
+Kazam
+Preferences
+KBackup
+KBall
+KBibTeX
+KDE-based editor for bibliographic files
+Blackbox Logic Game
+KBlackBox
+KBlocks
+KBounce
+KBreakOut
+Breakout-like Game
+KBruch
+KCachegrind
+KCalc
+Scientific Calculator
+KCemu
+Emulator for KC85 and compatible computer
+Character Selector
+KCharSelect
+KchmViewer
+A viewer of CHM (MS-Help) files
+KDE collectd database-viewer
+Viewer for collectd-databases
+Color Chooser
+KColorChooser
+KColorEdit
+KDbg
+Debug programs
+KDE SDK
+KNetAttach
+KDE IM Contacts
+KDE IM Log Viewer
+Displays your KDE Instant Messenger logs
+KFontView
+KRandRTray
+A panel applet for resizing and reorientating X screens.
+KDE Connect
+Connect smartphones to your KDE Plasma Workspace
+KMailService
+Kdenlive
+Change Password
+Account Wizard
+Akonaditray
+Akonadi Tray Utility
+KMail Header Theme Editor
+KDE Source Builder
+kdesvn
+A Subversion client for KDE
+KDevelop 4
+KDevelop 4 (Pick Session)
+KDiskFree
+KDiamond
+Three-in-a-row game
+KDiff3
+KDocker
+KDrill
+Ked Password Manager
+KeePass2
+Password manager
+KeePassX
+KeepNote
+Note-taking Application
+Kepas
+Kepas - KDE Easy Publish and Share
+KETM
+KEuroCalc
+Kexi
+KeyMon
+Keyboard and Mouse Monitor for screencasts
+Keyboardcast
+KeySync
+KeyTouch Editor
+KFileReplace
+Search & Replace Tool
+Find Files/Folders
+Floppy Formatter
+KFloppy
+KFourInLine
+Four-in-a-row Board Game
+KFritz
+KFTPGrabber
+A graphical FTP client
+KGeography
+KGet
+Download Manager
+KGmailNotifier
+A Gmail notifier applet for KDE
+KGoldrunner
+A GnuPG frontend
+KGpg
+KGrab
+KDE Hangman Game
+KHangMan
+Khmer Converter
+Eeschema
+Design a printed circuit board
+KiCad
+Icon Editor
+KIconEdit
+Kid3-qt
+Audio Tagger
+Kid3
+Kig
+Kigo
+Kiki the nano bot
+Kiki
+KildClient
+Connect to MUDs (Multi User Dungeons)
+(La)TeX development environment
+Kile
+Killbots
+KImageMapEditor
+HTML Image Map Editor
+KInfoCenter
+Info Center
+Kino
+Edit DV video
+KIPI Plugins
+KDE Image Plugins Interface
+Panorama
+Kiriki
+Yahtzee-like Dice Game
+Kismet
+Kita2
+2ch client for KDE
+Kiten
+Kanji Browser
+Radical Selector
+Kitsune
+Countdown
+KJots
+Note Taker
+KJumpingCube
+Gnash SWF Viewer for KDE
+KLatexFormula
+Klavaro
+Yet another touch typing tutor
+Kleopatra
+Certificate Manager and Unified Crypto GUI
+KLettres
+Klickety
+SameGame
+Board Game
+Tactical Game
+Kolor Lines
+KLinkStatus
+Link Checker
+Klipper
+KLog
+KDE Ham Radio logging program
+Kluppe
+audio loop-player and recorder
+KMag
+Screen Magnifier
+KMahjongg
+Mahjongg Solitaire
+Mail
+KMail
+Mail Client
+KMail Import Wizard
+MBoxImporter
+Menu Editor
+KMess
+KMetronome
+KDE MIDI Metronome Using ALSA Sequencer
+KMidimon
+ALSA Sequencer MIDI monitor
+KMines
+Minesweeper-like Game
+Sound Mixer
+KMix
+KMLDonkey
+An MLDonkey frontend for KDE
+KMouseTool
+KMouth
+KDE interface for MPlayer
+KMPlayer
+Function Plotter
+KmPlot
+KMyMoney
+Naval Battle
+KNemo
+Network Monitor
+KNetWalk
+Knights
+Chess game
+KNode
+Popup Notes
+KNotes
+KNutClient
+Client for NUT
+Kobo Deluxe
+Kolf
+Miniature Golf
+Kollision
+KolourPaint
+Paint Program
+Komparator4
+Kompare
+Diff/Patch Frontend
+Konquest
+Galactic Strategy Game
+Konsole
+KonsoleKalendar
+Kontact
+KontrolPack
+IRC Client
+Konversation
+Kopete
+Instant Messenger
+Calendar
+Calendar and Scheduling Program
+KOrganizer
+koules
+Kover
+KPatience
+KPhotoAlbum
+Photo Album
+Open in RAW editor
+KPlayer
+KPPP
+kradio4
+V4L/V4L2-Radio Application for KDE4
+KRadioRipper
+Kraft
+Krank
+Kraptor
+classic shoot 'em up scroller game
+Kerberos Authentication
+Kerberos Network Authentication Dialog
+KRDC
+Krecipes
+The KDE Cooking Book
+kredentials
+KRemoteControl Notifier Item
+KRename
+KReversi
+Reversi Board Game
+Krfb
+Desktop Sharing
+Krita
+Digital Painting
+Krita Gemini
+Krita Sketch
+Screen Ruler
+KRuler
+Krusader
+Twin-Panel File Manager
+KsCD
+KScope
+Shisen-Sho
+Shisen-Sho Mahjongg-like Tile Game
+KShutdown
+KsirK
+Snake-like Game
+KSnake
+KSnakeDuel
+KSnapshot
+KSpaceDuel
+Space Arcade Game
+KSquares
+SSH AskPass
+Kst
+Data Viewer
+Desktop Planetarium
+KStars
+KSudoku
+KSudoku, Sudoku game & more for KDE
+KSysGuard
+System Monitor
+KSystemLog
+KTeaTime
+Tea Cooker
+KTikZ
+Program for creating TikZ (from the LaTeX pgf package) diagrams
+Countdown Launcher
+KTimer
+KTimeTracker
+KTnef
+KTorrent
+A BitTorrent program for KDE
+KTouch
+Potato Guy
+KTurtle
+Kubrick
+A 3-D game based on Rubik's Cube
+KUIViewer
+Qt Designer UI File Viewer
+Kupfer
+KUser
+User Manager
+KVIrc
+KVPM
+KDE Volume Partition Manager
+GUI for various VPN clients
+KVpnc
+KWalletManager
+Kwave Sound Editor
+KWordQuiz
+KWrite
+L2TP Ipsec VPN Manager
+Manage and change your L2TP IPsec VPN connection settings
+L2TP Ipsec VPN Applet
+Control your L2TP IPsec VPN connections
+Laborejodp
+Laby
+Labyrinth Mind-mapping
+LADI Control Center
+Configure the LADI system
+LADI Player
+Control LADI system
+LADI Log File Viewer
+View or monitor LADI log files
+LADI System Tray
+Manage and configure JACK and ladish
+Landell
+Landscape Service
+Language Support
+Last.fm
+Listen to Last.fm radio
+LDAP Administration Tool
+Manage LDAP-based directories
+LaTeXDraw
+Graphical editor for PSTricks
+LaTeXila
+Edit LaTeX documents
+Launchy
+Keystroke Launcher
+Lazarus (1.0.10)
+Lazarus IDE (1.0.10)
+LBreakout2
+A ball-and-paddle game with nice graphics.
+lcrt
+Leafpad
+Le Biniou
+Lekhonee Gnome
+A Wordpress blog client
+lemon
+LeoCAD
+Create virtual LEGO models
+Lernid
+LetoDMS
+LGeneral
+LGeneral is a turn-based strategy engine heavily inspired by Panzer General.
+CamiTK-wizard
+Preferred Applications
+LibreCAD
+A professional CAD System
+LibreOffice Base
+New Database
+LibreOffice Calc
+New Spreadsheet
+LibreOffice
+Text Document
+Spreadsheet
+Presentation
+Drawing
+Database
+Formula
+LibreOffice XSLT based filters
+XSLT based filters
+LibreOffice Draw
+New Drawing
+LibreOffice Impress
+New Presentation
+LibreOffice Math
+Create and edit scientific formulas and equations by using Math.
+New Formula
+LibreOffice Writer
+New Document
+U1Db QML Example Gallery
+My Fake App
+My Fake App Comment
+About Xfce
+Licq
+lierolibre
+Earthworm action game
+Liferea Feed Reader
+Lights Off
+Lightspark
+Liguidsoap
+Simple GTK gui to liquidsoap to interactively configure your streams.
+Lincity-NG
+Lincity
+Lingot
+LINGOT Is Not a Guitar-Only Tuner
+LinkChecker Gui
+URL validator
+LinkChecker Commandline
+Links 2
+Linphone
+Linphone is a web-phone
+Linpsk
+Linsmith
+Smith Chart Generator
+Linthesia
+Piano game
+LinuxDC++
+Liquid War
+Literki
+Hacker's keyboard
+Little Wizard
+LiveMix - Live Mixer
+LiVES
+Video Editor/VJ tool
+Oscilloscope
+An oscilloscope DSSI plugin
+Linux Letters and Numbers
+GTK letters-learning game for small children
+llk_linux
+Gtk based LianLianKan Game.
+LMarbles
+LMemory
+Memory Game
+Logisim
+LogJam
+Manage journal/weblog
+Lokalize
+London Law
+LongoMatch: The Digital Coach
+Loook
+Loqui
+IRC client
+LostIRC
+Chat on IRC-networks
+LottaNZB Usenet Downloader
+LÖVE
+Hardware Lister
+LSkat
+Card Game
+LTris
+A tetris clone with nice graphics
+LTRsift
+A graphical tool for postprocessing and classification of LTR retrotransposons.
+Luakit
+Fast, small, webkit based micro-browser extensible by Lua
+identi.ca
+Luciole
+luckyBackup
+Luminance HDR
+Create and tonemap HDR images
+Luola
+Lure of the Temptress
+classic 2D point and click fantasy adventure game
+LuserNET News Reader
+News Reader for GNUstep
+Keyboard and Mouse
+Lxkeymap
+Lxkeymap application
+Default applications for LXSession
+Shortcut Editor
+Task Manager
+Lybniz Graph Plotter
+Plot graphs and functions
+Lynis auditing tool
+Security auditing tool (root)
+Lynkeos Image Processor
+Lyricue
+Lyricue Server
+LyX Document Processor
+High level LaTeX frontend
+Mad Bomber
+Maelstrom
+Magicicada
+Magicicada application
+Magicor
+MagicTouch
+Mah-Jong
+Mail Notification
+Mailnag Configuration
+Maitreya7
+Astrology Software
+MakeHuman
+MAME™ Arcade Emulator
+Play vintage arcade games using the MAME emulator
+Mana
+A 2D MMORPG client
+ManaPlus
+Mancala
+Visit 3D Fractal World
+Mandelbulber
+Mangler
+Voice chat on Ventrilo 3.x servers
+Marble
+Virtual Globe
+M.A.R.S.
+M.A.R.S. - a ridiculous shooter
+massXpert
+Bio-polymer mass spectrometry software
+MAT
+Metadata Anonymisation Toolkit
+Matanza
+Space ascii war game
+Keyboard
+Virtual Keyboard
+About MATE
+Learn more about MATE
+Pop-Up Notifications
+Mathomatic
+MathWar
+Matita
+Interactive theorem prover
+MATLAB
+Midnight Commander
+File manager
+MComix
+mCRL2
+Graphical IDE for MCS-51 based microcontrollers
+MCU 8051 IDE
+MDB Viewer
+View and export Microsoft Access databases
+Me TV
+A digital television (DVB) viewer for GNOME
+MediaInfo
+MediathekView
+MediaTomb
+MediaTomb UPnP MediaServer web user interface.
+medit
+Text editor
+Mednafen
+MegaGlest
+Map Editor
+MegaGlest Map Editor
+G3d Model Viewer
+MegaGlest Model Viewer
+Meld Diff Viewer
+Melting
+MeMaker
+Meritous
+Merkaartor
+OpenStreetMap Editor
+MeshLab
+View and process meshes
+Dreamcast ROM Player
+Play Sega Dreamcast games
+Game Boy ROM Player
+Play Nintendo Game Boy games
+Game Boy Advance ROM Player
+Play Nintendo Game Boy Advance games
+Genesis ROM Player
+Play Sega Genesis games
+MSX ROM Player
+Play MSX games
+Nintendo64 ROM Player
+Play Nintendo 64 games
+NES ROM Player
+Play Nintendo Entertainment System games
+Sega Master System/Game Gear ROM Player
+Play Sega Master System and Game Gear games
+Super NES ROM Player
+Play Super Nintendo Entertainment System games
+MESS
+Emulateur multi systèmes
+Messaging
+Messaging application
+Metacity
+Meterbridge
+MGM System Monitor
+mhWaveEdit
+Record, play, edit and convert sound files
+mialmpick Version 0.2.10
+mia-lmpick Version 0.2.10
+MiceAmaze
+video game with mice in a maze
+µHOPE
+MicroHOPE microcontroller programming system
+microHOPE Manual
+microHOPE User Manual
+Micropolis
+MIDI monitor and prober.
+Midisnoop
+Midori Private Browsing
+Midori
+Lightweight web browser
+New _Tab
+New _Window
+mikutter
+Twitter Client
+MilkyTracker
+Fasttracker 2 Clone
+MilkyTracker (play song)
+Minbar Prayer Times
+Minetest
+Multiplayer infinite-world block sandbox
+Minirok
+Minitube
+Watch YouTube videos
+Play/Pause
+Mirage
+A fast GTK+ Image Viewer
+Miro
+Fully featured video and music player, podcast client, and bittorrent client
+MirrorMagic
+Mistelix
+Author DVDs and slideshows
+MIT/GNU Scheme
+Mixxx
+A digital DJ interface
+mkvinfo
+mkvmerge GUI
+MKV files creator
+MLDonkey
+Graphical frontend for MLDonkey
+Multilingual Terminal
+Misfit Model 3D
+Create and edit 3D models and animations
+mMass
+mmpong-gl
+massively multiplayer pong game
+Mnemosyne
+Mobile Atlas Creator
+create offline-atlases for GPS/cell phone applications
+Model Builder
+Graphical ODE simulator
+Modem Manager GUI
+Mokomaze
+Ball-in-the-labyrinth game
+Monajat Applet for supplications
+Monkey Bubble
+Monkey Bubble Arcade Game
+Monkey Studio IDE
+The best cross platform IDE available!
+Open With MkS
+Mono Runtime
+gsharp
+Mono IL Contrast
+MonoDevelop
+Develop .NET applications in an Integrated Development Environment
+Mono Documentation
+Monodoc (http)
+Monodoc Documentation Browser
+Monster Masher
+Mash monsters and save the gnomes
+Monsterz
+Little arcade puzzle game, similar to the famous Bejeweled
+Moonlander
+Mopidy Music Server
+MPD music server with Spotify support
+Morris
+Nine Men's Morris Game
+moserial Terminal
+Mousepad
+Mozc Setup
+Set up Mozc engine
+MP3 Diags - diagnosis and repair tool
+MP3 Diags
+Mp3splt-gtk audio splitter
+Split mp3 and ogg files without decoding
+MPDCon
+GNUstep client for MPD
+MPRIS 2 support for MPD
+MPlayer Media Player
+Mplinuxman
+Manage your MPMan portable mp3 player
+mpv Media Player
+DICOM to NIfTI Conversion
+dcm2nii
+Non-parametric MRI Analysis
+NPM
+2D/3D MRI Image Viewer
+MRIcron
+MRI Tractography View
+MRview
+Mtink
+Status monitor for Epson inkjet printers
+mtPaint graphic editor
+Troff
+TROff - A libavg based multitouch TRON clone
+Mu-cade
+Kenta Cho's Mu-cade
+Mudita24
+ALSA GUI control tool for Envy24 (ice1712) soundcards
+Mudlet
+Muffin
+About Me
+MultiGet
+MultiGet Downloader
+Multitet
+Multitouch cooperative Tetris-like game
+Mumble
+Install More...
+Muon Discover
+Software Center
+Muon Software Center
+Muon Update Manager
+Muon Package Manager
+Package Manager
+MuPDF
+PDF file viewer
+Murmur
+Python/GTK2 Museek client
+MusE
+Museeq
+C++/QT3 Museek client
+WYSIWYG Music score typesetter
+MuseScore
+Musetup-gtk
+Museek daemon configuration tool
+Musique
+mutt
+Mutter
+mx44
+MyPaint
+MySQL Workbench
+MySQL Database Design, Administration and Development Tool
+MythNetTV
+A video RSS grabber
+MythTV Backend Setup
+MythTV Frontend
+nagstamon
+Nagios status monitor
+Nautilus-Actions Configuration Tool
+Nautilus Compare Extension Preferences
+Dropbox
+Nautilus Pastebin Configurator
+Nautilus Pastebin configuration panel
+Nautilus scripts manager
+Enable or disable Nautilus scripts
+Navit
+Cn3D NCBI Database Viewer
+View NCBI databases in 3D
+Sequin DNA Sequence Submission Tool
+Submit DNA sequences to the GenBank, EMBL, and DDBJ databases
+DDV Sequence Alignment Viewer
+Entrez NCBI Database Querying Tool
+Query NCBI databases and retrieve documents
+Ncmpcpp
+NCurses Music Player Client
+Ndiswrapper driver installation tool
+NEdit
+Nekobee
+Simple single-oscillator DSSI plugin
+Nemiver C/C++ Debugger
+Debug Applications
+Autorun Prompt
+Files
+Access and organize files
+Sequence alignments neobio
+Nepomuk Backup
+Nepomuk Cleaner
+Nestopia
+Accurate NES Emulator
+Network animator
+Network animator based on Qt4 working with ns-3
+NetBeans IDE 7.0.1
+NetEmul
+The LAN network simulator
+Netgen Mesh Generator
+X NetHack
+Netmate
+shows pcap dump lines in network header style
+NetPanzer
+Netrek
+NetSurf Web Browser
+netToe
+Play a game of Tic Tac Toe.
+Network
+Neverball
+A 3D arcade game with a ball
+Neverputt
+Nexuiz
+NFO Viewer
+View NFO files
+Ngraph
+create scientific 2-dimensional graphs
+Nicotine-Plus
+SoulSeek filesharing client
+Nikwi Deluxe
+Ninja IDE
+Python IDE
+nip2
+nitrogen
+Njam
+pacman-like game with multiplayer support
+NJplot
+NmapSI4 - Full mode
+Is a Qt4 interface for nmap scanner
+NmapSI4-logr
+Is a Qt4 interface for nmapsi4 log
+NmapSI4 - User mode
+nobleNote
+Noiz2sa
+An Abstract Shooter by Kenta Cho
+NomNom
+Download and stream media
+Nootka
+Notification Daemon
+Display notifications
+NRefactory Demo (GTK#)
+NRefactory C# analysis library Demo (GTK#)
+NRefactory Demo (System.Windows.Forms)
+NRefactory C# analysis library Demo (System.Windows.Forms)
+NtEd
+NTFS Configuration Tool
+NuApplet
+QT NuFW Client
+Numpty Physics
+uri_link_play
+NUT Monitor
+NVCLOCK
+Overclock and Monitor NVIDIA cards
+NVIDIA X Server Settings
+Configure NVIDIA X Server Settings
+nvPY
+Cross-platform simplenote-syncing note-taking tool
+Nvtv TV Out
+Nzb
+Grab nzb files
+Openbox Configuration Manager
+Tweak settings for Openbox
+ObexTool
+Fox
+OpenCASCADE
+OpenCASCADE DRAWEXE test harness
+OCRFeeder
+The complete OCR suite.
+GNU Octave
+Scientific Computing using GNU Octave
+OggConvert
+DVD Encoder OGMRip
+Okteta
+Hex Editor
+okular
+Okular
+OmegaT
+Onboard
+2D platform game about communist and capitalist balls
+OnTV
+Oolite
+An OpenGL Elite-like space game
+OpenAxiom
+Open Invaders
+OpenArena
+A fast-paced 3D first-person shooter, similar to id Software Inc.'s Quake III Arena
+OBM
+Logs GSM and GPS and uploads to openBmap.
+OpenBVE
+OpenCity
+OpenClonk
+OpenClonk is mainly about mining, settling and fast-paced melees.
+Open Cubic Player
+Open Cubic Player 0.1.20 for UNIX
+Dictionary OpenDict
+OpenFetion
+Fetion For Linux
+OpenJDK Java 6 Runtime
+OpenJDK Java 7 Runtime
+OpenLP
+OpenLugaru
+Single-player game featuring rabbits
+Structured Storage Explorer
+openMSX Catapult
+Graphical interface for openMSX
+OpenRocket
+OpenSCAD
+OpenSesame
+OpenShot Video Editor
+Create and edit videos and movies
+OpenSSN
+OpenSterogram
+Create 3D autostereograms
+Maps application
+OpenSTV Voting Software
+OpenTeacher
+OpenTTD
+A clone of Transport Tycoon Deluxe
+OpenUniverse Space Simulator
+OpenVAS-Client
+GTK+-2 Client for OpenVAS Security Scanner
+Open Yahtzee
+Ophcrack
+Microsoft Windows password cracker
+OptGeo
+Orage Globaltime
+Orage Calendar
+Desktop calendar
+Orbital Eunuchs Sniper
+Oregano
+Osmo
+Personal Organizer
+Othman Quran Browser
+Electronic Mus-haf
+Adventure Game
+Overgod
+OVITO
+ownCloud desktop sync client
+Folder Sync
+Pacemaker GUI
+Pacemaker CRM GUI
+PackETH
+Packet Generator
+Pacman
+PulseAudio Device Chooser
+Pairs
+Paje Trace Viewer
+Palapeli
+PulseAudio Manager
+Manage your PulseAudio sound server
+Pan Newsreader
+Read and Post Usenet Articles
+Pang Zero
+PulseAudio Preferences
+ParaView Viewer
+Parcellite
+Parley
+Vocabulary Trainer
+Parole Media Player
+Previous Track
+Next Track
+PARSEC47
+Kenta Cho's PARSEC47
+KDE Partition Manager
+Pasaffe
+Pasaffe password manager
+Passage
+Password Gorilla
+PulseAudio System Tray
+An Applet for PulseAudio
+Patchage
+Pathogen
+Pathological
+Pauker
+paulstretch
+suitable for extreme sound stretching of audio (like 50x)
+PulseAudio Volume Control
+PulseAudio Volume Meter (Playback)
+Paw++ (Physics Analysis Workstation)
+Pax Britannica
+Periodic Calendar
+PCB Designer
+Desktop Preferences
+File Manager PCManFM
+PCP Charts
+Strip Chart tool for plotting Performance Co-Pilot metrics
+Gscriptor
+Send commands to smart cards
+PCSX
+Sony PlayStation emulator
+PDF Presenter Console
+PDF Chain
+PDF Mod
+Remove, extract, and rotate pages in PDF documents
+pdfsam
+A tool to split and merge pdf documents
+PDF-Shuffler
+PDF Merging, Rearranging, Splitting, Rotating and Cropping
+Peg-E
+Peg-Solitaire
+Peg Solitaire
+Pencil
+Draw cartoons
+Penguin Command
+PenguinTV Media Aggregator
+Aggregates rss feeds, podcasts, and video blogs
+Pente
+Pentobi
+Performous
+PerlPrimer
+Perroquet
+Petri-Foo
+Sound Sampler
+Postgres Forms (pfm)
+pgAdmin III
+PostgreSQL Administration Tool
+PHASEX
+Phatch PHoto bATCH Processor
+Phlipple
+Phoronix Test Suite
+PhotoFilmStrip
+PhotoPrint
+Piano Booster
+MusicBrainz Picard
+picmi
+PIDA
+Python Integrated Development Application
+Pidgin Internet Messenger
+Chat over IM. Supports AIM, Google Talk, Jabber/XMPP, MSN, Yahoo and more
+Emilia Pinball
+OpenGL pinball game
+Pingus
+Pink Pony
+Pinot Metasearch Tool
+Pinta Image Editor
+Pioneers
+PipeWalker
+Pithos
+Pitivi Video Editor
+PIX Bros
+2D game inspired in Bubble Bobble, Snow Bros and Tumble Pop
+Pixelize
+ConvertAmicasJPEG2000FilesetToDicom
+Convert Amicas JPEG2000 Fileset to Dicom.
+DicomCleaner
+A simple application to query, retrieve, import, de-identify and remap UIDs and send DICOM instances.
+DicomImageBlackout
+A simple DICOM image blackout tool.
+DicomImageViewer
+A simple DICOM image and spectroscopy viewer.
+DoseUtility
+MediaImporter
+WatchFolderAndSend
+WatchFolderAndSend Application.
+PIX Frogger
+Planarity
+A libavg based multitouch adaption of the popular game Planarity, aka Untangle
+Planets
+Settings
+Browser
+Alarms
+Books
+Images
+An image viewer for touch tablets
+Widget Strip
+kde-nm-connection-editor
+SuperKaramba
+An engine for cool desktop eyecandy.
+Sends ed2k://, magnet: or *.emulecollection to the engine
+Plasmate
+Plasmidomics
+Tool for drawing of plasmids and vector maps
+PlayOnLinux
+Game
+Plee the Bear
+PLM
+pLoader
+PlopFolio
+Personal dashboard for GNUstep
+PlotDrop
+Pod Browser
+Browse Perl Documentation
+Poe
+Vorbis comment editor
+Poedit
+Gettext catalogs editor
+PokerTH
+Texas hold'em game
+PolyBoRi GUI
+PolyGUI
+Pondus
+PortaBase
+PostBooks Updater
+PostBooks
+PosteRazor
+Flickr Uploader
+Upload photos to Flickr
+Powder
+Powermanga
+Progress Quest
+Praat Speech Analyzer
+Analyze, synthesize and manipulate speech
+PrBoom+
+enhanced clone of the classic first-person shooter Doom
+PrefixSuffix
+Batch renaming of files.
+prelude-notify
+Prepaid Manager
+prerex
+Preview
+PRICE
+Primrose
+Captivating tile-clearing puzzle game
+Reactivate HP LaserJet 1018/1020 after reloading paper
+ProjectX
+ProjectCenter
+The Official GNUstep IDE
+ProjectL
+HIZ's ProjectL
+projectM Jack Audio Visualization
+A milkdrop based music visualizer visualizing JackAudio streams on a Qt4 GUI
+projectM PulseAudio Visualization
+Visualization of PulseAudio streams with projectM
+Promoe
+XMMS2 Client
+Proof General
+Organise your proofs!
+Psensor
+Psi+ Webkit
+Psi+
+Psi
+GNU PSPP
+Psychology Stimuli IDE
+PsychoPy
+puddletag
+Pumpa
+PureAdmin
+Pure Data
+PuTTY SSH Client
+Connect to an SSH server with PuTTY
+Pybik
+Pybliographic Bibliography Manager
+PyBridge
+PyChess
+PythonBook
+LearnByCoding
+Python Programs
+PyCorrFit
+FCS Data Analysis
+PyHoca-GUI
+Python X2Go Client Applet
+PyKaraoke Mini
+Minimum-interface PyKaraoke
+PyKaraoke
+Practice Languages
+EDFviewer
+Elementsinfo
+Display X-ray information on elements
+Peakidentifier
+PyMCA
+Analyse X-ray Fluorescence data
+PyMCA ROI tool
+pymissile
+Control Marks and Spencer USB Missile Launcher
+PyMOL Molecular Graphics System
+Pynagram
+Unjumble letters
+pyNeighborhood
+PyPar2
+PyPE
+Python Programmers Editor
+PyPI Browser
+pyprompter
+pyRacerz
+2D racing game
+Pyragua
+A fast and lightweight IDE using wxPython
+pyRenamer
+Dream Cheeky Rocket Control
+Pyromaths
+PyRoom
+PyScrabble
+pySioGame
+PySol Fan Club Edition
+Pyspread
+Python spreadsheet application
+Pysycache Admin
+Configuration of PySyCache
+PySyCache
+pyAcidoBasic
+AT-SPI Browser
+guidata-tests
+guiqwt-tests
+you can use this applications to test all guiqwt features.
+Sift
+Signal and Image Filtering Tool (demo software based on guidata and guiqwt)
+gifeffit
+Lunch
+pyMecaVideo
+NXT filer
+Lego Mindstorm NXT file viewer
+E-Pyo
+sqledit
+Sqledit
+web2py
+python-whiteboard
+Window Mocker
+wxGlade
+GUI designer written in Python with wxPython
+Python (v3.3)
+Python Interpreter (v3.3)
+Python (v3.4)
+Python Interpreter (v3.4)
+PyCAD
+PythonCAD
+pytrainer
+utility for Wine applications and prefixes management.
+Q4Wine
+Qalculate!
+QApt Package Installer
+QARecord
+QasConfig
+ALSA configuration browser
+QasHctl
+ALSA HCTL mixer
+QasMixer
+qBittorrent
+QBrew
+Homebrewer's recipe calculator
+qcomicbook
+Qdacco dictionary
+QDevelop
+Development environment for Qt4
+DigiDoc3 Client
+DigiDoc3 Crypto
+QElectroTech
+Qemu Launcher
+ID-card Utility
+QGIS Browser
+QGIS Desktop
+qgit
+git GUI viewer
+qGo
+QHiMDTransfer
+Transfer software for Sony HiMD Walkman
+QjackCtl
+QjackCtl is a JACK Audio Connection Kit Qt GUI Interface
+QJackRcd
+A simple Jack recorder
+QJoyPad
+Trigger keystrokes and mouse actions with gamepads/joysticks
+QLandkarteGT
+GPS device mapping utility
+Qliss3D
+demonstration tool for Lissajous physiques
+Qlix
+QMidiArp
+Arpeggiator-Sequencer-LFO
+QmidiNet
+qmidiroute
+Midi Router
+Qmmp
+Qt4-based Multimedia Player
+QMPDClient
+A nicer MPD client
+QNifti2Dicom
+Convert 3D NIfTI images to DICOM 2D series
+qpdfview
+A tabbed PDF viewer using the poppler library.
+Choose instance
+Non-unique instance
+qprogram-starter
+QPxTool
+Qreator
+Create your own QR codes
+New QR code for URL
+New QR code for Text
+New QR code for Location
+New QR code for WiFi network
+qRFCView
+Downloads and displays RFC
+qrq
+High speed Morse telegraphy trainer
+Qsampler
+Qsampler is a LinuxSampler Qt GUI Interface
+QSapecNG
+qshutdown
+QSource-Highlight
+QStarDict is Qt version of StarDict
+QStarDict
+Qsynth
+Qsynth is a FluidSynth Qt GUI Interface
+Qt 4 Designer
+Interface Designer
+Qt 4 Assistant
+Document Browser
+Qt 4 Linguist
+Translation Tool
+Qt 4 Settings
+Ubuntu SDK
+Qt Creator
+QtEmu
+QTerm
+QtGain
+qthid-2.2
+qthid
+full support for the Funcube Dongle API available with firmware 18f or later
+QTikZ
+QtiPlot
+QTM
+QtOctave
+Graphical Qt frontend for GNU Octave
+QtQR
+Qtractor
+QTScrobbler
+QTScrobbler is tool for submitting .scrobbler.log from portable players to Last.fm
+QtSmbstatus Client
+QtSmbstatus Light
+Quadrapassel
+Quake II
+Quake III Arena
+Quake: Scourge of Armagon
+Quake: Dissolution of Eternity
+Quake
+Quarry
+A multi-purpose board game GUI for Go, Amazons and Reversi
+Quassel IRC (Client only)
+Quassel IRC
+QuickSynergy
+Quisk
+QuitCount
+QuiteRSS
+QuiteRSS is a RSS/Atom feed reader written in C++/Qt4
+Quod Libet
+QupZilla
+QuteCom
+qutIM
+Communicate over IM
+Qt V4L2 test Utility
+Allow testing Video4Linux devices
+QViaggiaTreno
+Interfaccia grafica per ViaggiaTreno
+QWBFS Manager
+qweborf
+qwo
+Qxw
+R
+R software environment for statistical computing and graphics
+R Commander
+DrRacket
+IDE for Racket
+Radio Tray
+Raincat
+Rakarrack
+RapidSVN
+A GUI Client for Subversion
+RasMol (GTK version)
+Rawstudio
+RawTherapee
+Razor Appearance Configuration
+Razor Autosuspend Configuration
+Razor Shortcut Configuration
+Razor Mouse Configurator
+Configure X11 mouse
+Razor Freedesktop Notifications Configuration
+Configure freedesktop notifications in Razor desktop
+Qt Configuration
+Configure Qt
+Razor Configuration Center
+Configure Razor-Qt modules
+Razor Desktop Configurator
+Configure Razor-Qt desktop module
+Leave
+About Razor
+Learn more about Razor-qt
+Razor Session Configurator
+Configure Razor-Qt session module
+Resara Server Admin Console
+Recoll
+Desktop recorder
+RecordItNow
+Red Eclipse
+First-person shooter with agile gameplay and built-in editor.
+RedNotebook
+Redshift
+Referencer
+Document organiser
+regexxer Search Tool
+Regina
+Software for 3-manifold topology and normal surface theory
+Reinteract
+Interactive Python shell
+Rekonq
+Relational
+REminiscence
+A port of FlashBack game engine
+Remmina Remote Desktop Client
+Ren'Py Demo
+visual-novel game demo with Ren'Py
+The Question
+a simple visual-novel game with Ren'Py
+Ren'Py
+visual-novel type games
+repsnapper
+Controls your 3D plastic printer
+Resolution Switcher
+ResidualVM
+Interpreter for several 3D games
+ReText
+Simple text editor for Markdown and reStructuredText
+RFDump
+rgbPaint painting program
+Simple painting program for pixel art
+Rhinote
+Virtual sticky-notes
+Rhythmbox Music Player
+Ri-li
+RipOff
+Ripper X
+Rip Cds
+Ristretto Image Viewer
+RKWard
+GUI for the R-project
+Rlplot Graph Generator
+rlvm
+RealLive Emulator
+Robocode
+Robocut
+RoboJournal
+Addictive rock-dodging greeblie-killing platform game
+Rock Dodger
+Rocs
+ROOT
+ROOT's Object Oriented Technologies
+Rosegarden
+ROXTerm
+rRootage
+RSIBreak
+Rubrica Addressbook
+Manage contacts and addresses
+RutilT WLAN Manager
+Rxvt Color Unicode Terminal
+New Rxvt Color Unicode Terminal
+Rygel
+UPnP/DLNA Services
+SABnzbd+
+Download from usenet
+Sadms
+SAGA GIS
+Geodata Processing and Analysis
+Sagasu
+SagCAD
+Draw and create
+Sailcut CAD
+Sakura
+samplv1
+samplv1 is an old school polyphonic sampler
+Platinum Arts Sandbox Gamemaker
+Create 3D games and worlds
+SAOImage DS9
+Astronomical Data Visualization Application
+Sauerbraten
+A networked, fast-paced 3D first-person shooter
+Sawfish
+Scan Tailor
+SciDAVis
+Scilab CLI
+Scilab advanced CLI
+Scilab
+SCIM Input Method
+SciTE Text Editor
+ScolaSync
+Scolily Score Recorder
+Scorched 3D
+3D artillery game similar to Scorched Earth
+Scratch
+Screenie
+Screenshot Composer
+Screenkey
+Screencast your keys
+Screenlets
+A graphical tool to manage your Screenlets.
+Scribes Text Editor
+Scribus
+Page Layout and Publication
+ScummVM
+SDL-Ball
+Breakout Game
+sdlBasic
+Seahorse Adventures
+Decrypt File
+Import Key
+Verify Signature
+Passwords and Keys
+Search and rescue
+Searchmonkey
+SeaView
+SecPanel
+A graphical user interface for SSH and SCP
+Seetxt
+Semantik
+Mind mapping software
+Sentinella
+Seq24
+MIDI Sequencer
+Series60-Remote
+setBfree
+MIDI-controlled, software synthesizer using JACK
+SFLphone VoIP Client
+Call and receive calls with SIP or IAX protocols
+SFLphone VoIP KDE4 client
+Black Box
+Bridges
+Cube
+Dominosa
+Fifteen
+Filling
+Flip
+Galaxies
+Guess
+Inertia
+Keen
+Game based on KenKen
+Light Up
+Loopy
+Magnets
+Map
+Net
+Netslide
+Pattern
+Pearl
+Game based on Masyu
+Pegs
+Range
+Rectangles
+Same Game
+Signpost
+Singles
+Sixteen
+Slant
+Solo
+Sudoku game
+Tents
+Towers
+Twiddle
+Undead
+Monster-placing puzzle
+Unequal
+Unruly
+Untangle
+Share
+Share application
+ShelXle
+A Qt GUI for SHELX
+Shisen
+Photo Viewer
+Shotwell Photo Viewer
+Shotwell Photo Manager
+showFoto
+ShowQ
+Shutter
+Capture, edit and share screenshots
+Account authentication
+SigViewer
+Viewer for biosignals such as EEG, EMG, and ECG. http://sigviewer.sf.net
+SimDock
+A dockbar for GNOME
+Afaras
+KSimond
+KDE Front-End to Simond
+Sam
+Acoustic Modeller
+Simon
+Speech Recognition and Model Management
+Simond
+Speech Recognition Server
+SSC
+Simon sample collector
+SSCd
+Simple Scan
+Scan Documents
+SimpleBurn
+Simutrans
+Transportation simulator
+Sineshaper
+Singularity
+Sitplus
+Framework for ludic-therapeutic activities
+SIXpack
+EXAFS data analysis
+Skanlite
+Scan and save images
+skrooge
+GTK Slash'EM
+Super Lotsa Added Stuff Hack - Extended Magic (GTK)
+SDL Slash'EM
+Super Lotsa Added Stuff Hack - Extended Magic (SDL)
+X Slash'EM
+Super Lotsa Added Stuff Hack - Extended Magic (X11)
+Slashtime
+slbackup-php
+Webpage for configuring slbackup
+Slime Volley
+Unrealistic 2D volleyball simulation
+Slimrat File Downloader
+Slingshot
+2D space shooting game with gravity
+SLUDGE Floor Maker
+Edit SLUDGE floor plans
+SLUDGE Project Manager
+Manage and compile SLUDGE projects
+SLUDGE Sprite Bank Editor
+Edit SLUDGE sprite banks
+SLUDGE Translation Editor
+Edit SLUDGE translation files
+SLUDGE Z-Buffer Maker
+Edit SLUDGE z-buffer files
+SLUDGE Engine
+Screen-Message
+SmartShine
+Make your photos shine - auto gamma levels, contrast, saturation
+Smb4K
+Secret Maryo Chronicles
+A great MPlayer front-end
+SMPlayer
+Search and download videos from YouTube
+SMPlayer YouTube Browser
+Smuxi IRC Client
+Snake4
+Snappea 3-Manifold Creator
+Create and study hyperbolic 3-manifolds
+SnowballZ
+Command your army of penguins
+SocNetV
+Social Networks Visualisation and Analysis.
+SOFA
+Software & Updates
+Software Sources
+SolarWolf
+GNU Solfege
+Ear training
+Sonata
+An elegant GTK+ MPD client
+Songwrite
+Sonic Visualiser
+SooperLooper
+Looping Sampler
+Sopwith
+WW1 Dogfighting Game
+Sound Juicer Audio CD Extractor
+Sound Converter
+soundKonverter
+Audio file converter, CD ripper and Replay Gain tool
+Source-Highlight-IDE
+Develop, modify or debug a source-highlight definition file
+SpaceFM File Search
+SpaceFM Open Folder
+Open folder
+SpaceFM
+Spacezero
+Real Time Strategy 2D space combat multiplayer net game.
+SparkleShareInviteOpener
+SparkleShare
+Spatialite GUI
+SPE (Stani's Python Editor)
+Integrated Python Development Environment
+Specimen
+Specto
+2.4 GHz spectrum analysis using the Wi-Spy hardware device
+Spectrum Tool
+SpeedCrunch
+Spek Spectrum Analyser
+xSPIM
+Graphical MIPS32 Assembly language emulator
+Sponc
+A multitouch pong clone
+Spotlighter
+Spout
+Spring
+SpringLobby
+Spyder
+Scientific PYthon Development EnviRonment
+Spyke Viewer
+SQLite database browser
+GUI editor for SQLite databases
+Sqliteman
+Administer and develop your Sqlite3 databases
+Squeak
+SSL/SSH VNC Viewer
+SSVNC - access remote VNC desktops
+StackApplet
+Launch the StackApplet indicator
+StarDict
+Lookup words
+StarPlot Star Chart Viewer
+Star Voyager
+Steadyflow Download Manager
+Steam
+Store
+Community
+Library
+Servers
+Screenshots
+News
+Big Picture
+Stella
+A multi-platform Atari 2600 emulator
+Stellarium
+Planetarium
+Step
+StepBill
+StepBill - XBill for GNUstep (based on MacBill)
+Software Token
+Stopmotion
+Stopwatch
+A virtual stopwatch
+Stormbaan Coureur
+streamtuner2
+Listen to shoutcast/xiph/live365 music stations
+StretchPlayer
+Structure Synth
+Subcommander
+SubDownloader
+subsurface
+Subtitle Composer
+KDE subtitle editor
+Subtitle Editor
+A subtitle editor based on GStreamer and Gtk+
+Sugar
+Simulation of Urban MObility
+Road traffic Simulator
+Sunflow
+SuperCollider Emacs (scel)
+Emacs environment for SuperCollider
+SuperCollider IDE
+SuperCollider Vim
+Vim environment for SuperCollider
+Super Transball 2
+Thrust type of game
+SuperTux
+A Super Mario inspired penguin platform game
+SuperTux 2
+SuperTuxKart
+A kart racing game
+Aven Cave Surveying Tool
+SVN Workbench
+A Workbench for Subversion
+Swami Instrument Editor
+Create, play and organize MIDI instruments and sounds
+Sweep
+Sweep Sound Editor
+Sweeper
+System Cleaner
+Sweet Home 3D Furniture Library Editor
+Create your own SweetHome3D furniture libraries
+Sweet Home 3D Textures Library Editor
+Create your own SweetHome3D textures libraries
+Sweet Home 3D
+Swell Foop
+Swift
+Sylph-Searcher
+Sylpheed
+E-Mail client
+Synaptic Package Manager
+Install, remove and upgrade software packages
+Sync
+Synergy
+Synfig Studio
+Create and edit 2D animations and compositions
+synthv1
+synthv1 is an old school polyphonic synthtesizer
+Sysinfo
+Sysprof Profiler
+A system-wide linux profiler
+Date & Time
+Kickstart
+Create a kickstart file
+Configure LVM in a graphical setting
+Printers
+Configure printers
+Samba
+Create, modify, and delete samba shares
+System Settings
+Tagaini Jisho
+MP3 and Ogg Vorbis tag editor
+Tagua
+Tali
+Beat the odds in a poker-style dice game
+TalkSoup
+An IRC Client for GNUstep and Mac OS X
+Tangerine Media Sharing
+Tanglet
+Task Coach
+Tasks
+Tasque
+Easy quick task management
+Tatan
+HIZ's Tatan
+TCOS Server Configurator
+Configure TCOS server daemons and users
+TCOS Standalone
+TCOS-config
+Configure and make bootable initramfs images for thin client networks
+TcosMonitor
+Thin client network monitor
+TcosPersonalize
+Configure a simple TCOS thin client
+TEA Text Editor
+TecnoballZ
+Play an Arkanoid-like game
+Teeworlds
+An online multi-player platform 2D shooter
+T.E.G. client
+Tenes Empanadas Graciela client
+Tegaki Recognize
+Handwriting Recognition
+tekka IRC Client
+Chat on IRC
+TeleGNOME
+Phone Calls
+SMS
+Tellico
+Tennix!
+Terminator
+terminatorX
+Scratch and mix audio
+Termit
+Lightweight terminal emulator
+Terraintool surface mesh generator
+Tetraproc
+Tetrahedral Microphone Processor for Ambisonic Recording
+Tetzle
+GNU TeXmacs Editor
+A structured wysiwyg scientific text editor
+LaTeX development environment
+Texmaker
+TeXstudio
+TextEdit
+an OpenStep text editor
+TeXworks
+Tgif
+Interactive 2-D vector drawing program for X11
+Thawab
+themonospot - extract information from avi or mkv files
+themonospot
+Theorur
+Therion loch viewer
+View therion surveys in 3D
+Therion
+threadscope
+Haskell GHC thread profiler
+Thunar File Manager
+Thunderbird Mail
+Send and receive mail with Thunderbird
+Tickr - Feed Reader
+GTK-based highly graphically-customizable Feed Ticker
+Tic Tac Toe
+Simple, fun tic tac toe game for GNOME
+Tiger UNIX security tool
+Tiger UNIX security tool (root)
+Tilda
+Tiled
+Tile map editor
+TilEm
+TILP
+TI Calculators Linking Program
+JACK Timemachine
+TimeMon
+Software sound renderer (MIDI sequencer, MOD player)
+TiMidity++ MIDI sequencer
+Titanion
+Kenta Cho's Titanion
+Tkabber
+Communicate via XMPP (Jabber) protocol
+tkcvs
+A graphical frontend to CVS and Subversion.
+tkgate Circuit Simulator
+Event driven digital circuit simulator with Tcl/Tk
+Tomahawk
+Tomahawk — Social Music Player
+Tomboy Notes
+Toonloop
+Toonloop Live Animation Editor
+TOPPAS
+TOPPView
+Tower Toppler
+TOra
+TorChat
+TORCS
+TortoiseHg
+GUI application for using Mercurial
+Torus Trooper
+Kenta Cho's Torus Trooper
+Videos
+Play movies
+Mute
+Fullscreen
+tovid GUI
+Trackballs
+Desktop Search
+Transcend
+retro-style, abstract 2D shooter
+Transcriber
+Transcribe speech data using an integrated editor
+Transfermii
+Transfer miis from a wiimote
+Transmission remote GUI
+Transmageddon Video Transcoder
+Transmission BitTorrent Client
+Qtransmission Bittorrent Client
+Transmission Remote
+Remotely manage the Transmission BitTorrent client
+Multitrack Recorder
+Traverso
+TreeLine
+TreeView X
+Displays, modifies, prints and exports in SVG format phylogenetic trees
+Tribler
+P2P /Bittorrent/Youtube client
+Trigger
+Trimage image compressor
+A cross-platform tool for optimizing PNG and JPG files.
+Triplane Classic
+side-scrolling dogfighting game
+Tritium
+Tritium window manager
+Trophy
+2D car racing game with power-ups
+TrovaCAP
+TrustedQSL
+Sign QSO data for upload to LoTW
+Tryton
+Access Tryton server
+Neso
+Run Tryton
+Teletekst Browser
+Tucnak 2
+VHF Contest Logger
+Tulip
+Data Visualization software
+Tumiki Fighters
+Kenta Cho's Tumiki Fighters
+Tunapie
+Lists audio and video streams from shoutcast and icecast
+TunesViewer
+Access iTunesU media and podcasts.
+Tunnel Cave Drawing Software
+Tupi: Open 2D Magic
+2D Animation Toolkit
+Turpial
+A light, beautiful and functional microblogging client
+TurtleArt
+TuxCards
+Tux Commander
+Tuxfootball
+2D Football Game
+tuxguitar
+Edit, playback guitar tablatures
+Tux Math
+Tux Math - Learn math with Tux!
+Tux Paint
+Tuxpuck
+Tux Typing
+Educational typing tutor game starring Tux
+TVTime Television Viewer
+twclock
+World Clock and CW ID for Ham Radio Operators
+Twinkle
+A SIP softphone
+Tile World
+twpsk
+PSK31 for Linux with a openMotif GUI
+Txt Reader
+TypeCatcher
+Ubuntu HTML5 UI Gallery
+Ubuntu Tour
+Online Accounts
+calculator
+Locale
+Ubuntu UI Toolkit Gallery
+converter
+Ubuntu One
+Configure and manage your Ubuntu One account
+Ubuntu Studio Controls
+Used to install Ubuntu Studio Software Metas
+Extra MIDI Utilities
+Extra mixers
+Allows the installation of abiword, gnumeric and libreoffice
+Allows the installation of Soft Synths and Sound Generators
+Go to the Ubuntu Studio Forum
+Help and Documentation
+Help and Documentation for using UbuntuStudio
+UbuntuStudio IRC
+UbuntuStudio's IRC support channel
+Ubuntu Studio You can help
+Join the Ubuntu Studio Team
+ubuntustudio mail list page
+ubuntustudio.org
+Ubuntu Studio Home Page
+UDAV
+Udev Discover
+Sysfs tree browsing tool focused on helping udev users and developers
+UDJ Desktop Client
+UFRaw
+Unipro UGENE
+Integrated Bioinformatics Suite
+uGet
+Download multiple URLs and apply it to one of setting/queue.
+Hexen 2
+Hexen II
+Customize uim input method environment
+UIMA Annotation Viewer
+Viewer for UIMA annotations
+UIMA CPE Gui
+Graphical interface to build UIMA CPE
+UIMA Document Analyzer
+Simple UIMA analysis engine runner
+ukopp
+Umbrello
+UML Modeller
+UNetbootin
+Tool for creating Live USB drives
+Unison
+GTK interface for the unison file synchronization tool 2.40.102
+GTK interface for the unison file synchronization tool 2.32.52
+Appearance
+Bluetooth
+Time & Date
+Displays
+Details
+System Information
+Mouse & Touchpad
+Network settings
+Power
+Text Entry
+Brightness & Lock
+Sound
+Universal Access
+User Accounts
+Add or remove users
+Wacom Tablet
+Photos lens for Unity
+unity-lens-photos
+Unity Mail
+New mail notifications and counter badge for Unity
+Compose Mail
+Inbox
+Sent
+unity-scope-gdrive
+Google Drive scope for Unity
+Unity Scope Tool
+Unity Tweak Tool
+Unity
+System
+AmazonCloudReader
+BBC News
+cnn-news
+Ubuntu One Music
+Amazon
+Deezer
+DeviantArt
+FacebookMessenger
+GMail
+GoogleCalendar
+GoogleDocs
+GoogleNews
+GooglePlus
+GooglePlusGames
+grooveshark
+hulu-player
+lastfm-radio
+Launchpad
+LibreFm
+LinkedIn
+LiveMail
+mail-ru
+Newsblur
+pandora
+Unity WebApp QML Comonent - Basic API Showcase App
+Unity WebApp QML Comonent for Ubuntu Basic API Showcase App
+BBCNewsWebappsQMLExample
+Unity WebApp QML Component for Ubuntu Example using BBCNews binding
+FacebookMessengerWebappsQMLExample
+FacebookMessenger WebBrowser Container Example
+Unity WebApp QML Comonent - Example of WebApps Applications Model
+Unity WebApp QML Comonent for Ubuntu Example of WebApps Applications Model
+Unity Webapps QML Test Launcher
+qq-mail
+Reddit
+Tumblr
+Twitter
+Vkcom
+wordpress
+YahooMail
+YahooNews
+YandexMail
+yandexmusic
+YandexNews
+YouTube
+Unity 8
+The converged Unity shell
+Unknown Horizons
+Software Updater
+UPnP Inspector
+DLNA/UPnP device and service analyzer,control-point and test-tool
+UPnP Router Control
+upstart-monitor
+The Ur-Quan Masters
+USBprog
+USBprog firmware programmer
+About Myself
+Disk Management
+Mount and unmount filesystems
+Password
+UTF-8 Migration Tool
+UTF-8 Migration Wizard
+V_Sim
+Atomic visualisation
+Video4Linux Control Panel
+Last.fm Client
+Vagalume Last.fm Client
+Val & Rick
+Kenta Cho's Val & Rick
+Valknut
+Vavoom
+VBA Express
+VisualBoyAdvance Front-end
+Vectoroids
+A clone of the classic arcade game "Asteroids"
+Verbiste
+Veromix
+Mixer for the PulseAudio sound server (GTK+)
+Veusz
+Commodore 128
+Commodore 64
+Commodore CBM-II
+Commodore PET
+Commodore Plus/4
+Commodore VIC-20
+Vidalia
+Tor GUI
+VideoCut
+Videoporama
+view3dscene
+View 3D models in various formats, play with VRML / X3D worlds
+Viewmol
+ViewPDF
+PDF Reader for GNUstep
+Viking
+Map Based GPS Data Manager (live data capable).
+GVim
+viridian
+Stand alone front end for Ampache.
+Remote Viewer
+Virtaal
+VirtualBox
+Virus Killer
+Visolate
+PCB CNC converter
+VisualBoy Advance
+VisualVM
+All-in-One Java Troubleshooting Tool
+ViTables
+PyTables & HDF5 Files Visualizer
+ViTE
+VLC media player
+Read, capture, broadcast your multimedia streams
+VMPK
+Vodovod
+Vodovod is a puzzle game in which you must lead the water to the storage tank.
+screencast
+vokoscreen
+Volti
+VolumeControl
+VolView 3.4
+VoR
+Variations on Rockdodger
+VoxBo Image Viewer
+VBView2
+vprerex
+VYM - View Your Mind
+w3af
+Wakeup
+Wallch
+Start/Stop Wallpapers
+Wally
+KDE4 Wallpaper changer
+Wammu
+Application for mobile phones - frontend for Gammu
+Warmux
+Warzone 2100
+Postnuclear realtime strategy
+Wavbreaker File Splitter
+Split wave files into multiple chunks
+wavesurfer
+Wbar-config
+GUI tool to configure Wbar
+WebHTTrack Website Copier
+WebIssues
+QBoobmsg
+QCineoob
+QCookboob
+QFlatBoob
+Search housings
+QHandJoob
+QHaveDate
+QVideoob
+QWebContentEdit
+Weboob backends configuration
+Configure Weboob backends
+Zoho Webservice Spreadsheet
+Zoho Webservice Presentation
+Zoho Webservice Word Processor
+weka
+Battle for Wesnoth (1.10)
+A fantasy turn-based strategy game
+Battle for Wesnoth Map Editor (1.10)
+2D platform game with a slight rotational twist
+Widelands
+A a real-time build-up strategy game
+Simple Bible Application
+Wide Margin
+WiFi Radar
+Wine Windows Program Loader
+Winefish LaTeX Editor
+LaTeX Editor based on Bluefish
+WinFF
+GUI for avconv
+WING
+Play Galaga-like arcade game
+X Window Information
+Winpdb
+Platform independent Python debugger
+Window Switch
+Wireshark
+Wizznic
+Wmgui
+Simple GTK gui to the wiimote to test and display the wiimote data.
+Wmitime
+WMNut
+Wolf4SDL
+SDL-Port of Wolfenstein 3-D and Spear of Destiny
+WordNet
+Word War vi
+side-scrolling shoot'em up arcade game
+Worker
+File manager for X.
+Assists in the prevention and recovery of Repetitive Strain Injury (RSI)
+Workrave
+wpa_gui
+WrapperFactory
+Writetype
+wsjt
+Weak Signal Ham Radio
+wsjtx
+wxBanker Finance Manager
+wxFormBuilder
+wxWidgets GUI Designer
+WxGeometrie
+wxHexEditor
+A hex editor for huge files and devices
+wxMaxima
+X Tile
+Tile the Windows Upon your X Desktop
+X11VNC Server
+X2
+X2Go Client
+Xabacus
+simulation of the ancient calculator (plain X version)
+Xacobeo
+Build and execute XPath queries
+Xaos - Fractal Zoomer
+Fractal Generator
+Xara Xtreme
+Xarchiver
+A GTK+2 only archive manager
+XBill
+XBMC Media Center
+Xboard
+Start preconfigured XBoard
+XBoard FEN display
+Run XBoard as PGN viewer
+Resume XBoard chess tourney
+Chess Game
+XCA
+XCFA
+X Convert File Audio. Programme pour convertir les fichiers audio.
+XChat-GNOME IRC Chat
+XChat IRC
+xCHM
+Compiled HTML Help (CHM) file viewer
+XCrySDen
+Crystalline and Molecular Structure Visualisation Program
+Xdemineur
+Yet another minesweeper for X
+xdesktopwaves: start
+xdesktopwaves: stop
+xdiagnose
+X.org Diagnostic and Repair Utility
+XDot
+Interactive viewer for Graphviz dot files
+Xdx
+DX-cluster client for amateur radio
+xenwatch
+watch xen domains
+Xfburn
+Burn Image (xfburn)
+Desktop
+Xfe
+A lightweight file manager for X Window
+Xfig
+Diagram editor
+XFLR5
+Window Manager Tweaks
+Fine-tune window behaviour and effects
+Workspaces
+Configure layout, names and margins
+Galaga
+Xgnokii
+xhtml2ps
+xine
+VDR FrameBuffer Frontend
+VDR Xineliboutput Client - FrameBuffer Frontend
+VDR X-Frontend
+VDR Xineliboutput Client - X-Frontend
+Calibrate Touchscreen
+Xiphos Bible Guide
+Thai X terminal
+X Terminal that supports Thai (TIS-620 encoding)
+Xjadeo
+xjig
+A jigsaw puzzle
+XJump
+Xlog
+xmahjongg
+A colorful solitaire Mah Jongg game
+XMakemol
+Maxima Algebra System
+Xmille
+XML Copy Editor
+Edit XML documents
+XMMS2tray
+XMMS2 tray icon
+Xmonad
+Xmoto
+Motocross game
+xmbarrel
+barrel game
+xmcubes
+cubes game
+xmdino
+dino game
+xmhexagons
+hexagons game
+xmmball
+mball game
+xmmlink
+mlink game
+xmoct
+oct game
+xmpanex
+panex game
+xmpyraminx
+pyraminx game
+xmrubik
+rubik game
+xmskewb
+skewb game
+xmtriangles
+triangles game
+Xnec2c
+Xnec2c antenna simulation
+xnetcardconfig
+Xoo
+Xoscope
+digital oscilloscope
+Xosview
+X based system monitor
+Xournal
+Xpad
+Jot down notes for later
+XPaint
+Xpaint painting application
+xpdf
+View PDF files
+Xpn Newsreader
+Read News from Usenet
+Xpra
+Xpra Launcher
+xbarrel
+xcubes
+xdino
+xhexagons
+xmball
+xmlink
+xoct
+xpanex
+xpyraminx
+xrubik
+xskewb
+xtriangles
+XSane Image scanning program
+XScavenger
+X11 clone of Lode Runner
+Xscorch
+XSD Diagram
+XML Schema Definition (XSD) diagram viewer
+XSensors
+Xshogi
+XSkat
+Card game
+Klondike Solitaire
+X Solitaire
+XTerm
+XTide Tide Predictor
+gxvattr
+UXVile
+VI Like Emacs
+XVile
+XWelltris
+xxxterm Browser
+Xye
+XYscan
+Yabause (Gtk port)
+Sega Saturn emulator
+Yabause (Qt port)
+Yade
+YAGF
+Graphical frontend for Cuneiform and Tesseract
+YahtzeeSharp
+An open source Yahtzee like game written in C#
+Yakuake
+YAPET
+Yarssr
+RSS reader for the notification area
+Yate VoIP Client
+Help
+ygraph Scientific Data Plotter
+Produce simple xy-plots of scientific data
+Yi (Emacs keymap)
+Yi (Vim keymap)
+Yo Frankie!
+A 3D platform game
+3D FITS data viewer for spectro-imaging
+Cubeview
+Gyotoy
+FITS image display and simple analysis
+Spydr
+Yoshimi
+youker-assistant
+YubiKey Personalization Tool
+Yudit
+Z88
+Zangband
+A single-player, text-based, roguelike game
+Zanshin
+Zapping TV Viewer
+Zathura
+Zaz
+Zaz ain't Z***
+ZeGrapher
+Interactive tool plot mathematic objects
+Zeitgeist Explorer
+Zekr
+Study The Quran
+Zenmap
+A cross-platform GUI for the Nmap Security Scanner.
+zEscrow
+Backup eCryptfs configuration and mount passphrases
+Zim Desktop Wiki
+Quick Note
+Zipper
+AT1
+Zita-bls1
+Zita-mu1
+App used to organise stereo monitoring for JACK
+Zita-Rev1
+ZSNES
+Super Nintendo Entertainment System (TM) emulator
+zyGrib GRIB file viewer
+Meterological file viewer
+ZynAddSubFX Software Synthesizer
+Lv2rack
+LV2 plugins host for JACK
+Zynjacku
+LV2 synths host for JACK
+Apport
+Crash report
+Sorry, an internal error happened.
+Show Details
+_Examine locally
+Leave Closed
+Continue
+Sorry, %s has experienced an internal error.
+Package: apport 1.2.3~0ubuntu1
+Relaunch
+Send
+Please choose (%s):
+(%i bytes)
+(binary data)
+&Send report (%s)
+&Examine locally
+&View report
+&Cancel
+Problem report file:
+&Confirm
+Error: %s
+&Done
+none
+Selected: %s. Multiple choices:
+Choices:
+Path to file (Enter to cancel):
+File does not exist.
+This is a directory.
+To continue, you must visit the following URL:
+unknown program
+Sorry, the program "%s" closed unexpectedly
+Problem in %s
+Error
+You need to specify a package or a PID. See --help for more information.
+Permission denied
+Invalid PID
+Package %s does not exist
+No additional information collected.
+Unknown symptom
+The symptom "%s" is not known.
+%prog
+Specify package name.
+%prog [options] [symptom_BAR_pid_BAR_package_BAR_program path_BAR_.apport/.crash file]
+Start in bug filing mode. Requires --package and an optional --pid, or just a --pid. If neither is given, display a list of known symptoms. (Implied if a single argument is given.)
+Start in bug updating mode. Can take an optional --package.
+Print the Apport version number.
+Run gdb session
+Unable to start web browser to open %s.
+Network problem
+Memory exhaustion
+The problem cannot be reported: %s
+%prog [options]
+Override report's CoreFile
+Override report's ExecutablePath
+Override report's ProcMaps
+Report download/install progress when installing packages into sandbox
+Prepend timestamps to log messages, for batch operation
+Path to the duplicate sqlite database (default: no duplicate checking)
+You cannot use -C without -S. Stopping.
+report download/install progress when installing packages into sandbox
+the executable that is run under valgrind's memcheck tool for memory leak detection
+Error: %s is not an executable. Stopping.
+Usage: %s <report>
+Problem in bash
+Sorry, the application %s has stopped unexpectedly.
+Sorry, %s has closed unexpectedly.
+Force Closed
+The application %s has stopped responding.
+The program "%s" has stopped responding.
+Package: %s
+The application %s has closed unexpectedly.
+Hide Details
+Username:
+Password:
+Apport crash file
+Sorry, apport has closed unexpectedly.
+Install or remove packages
+Upgrade packages
+ERROR
+Downloaded %sB of %sB at %sB/s
+Downloaded %sB of %sB
+ERROR:
+Queuing
+Resolving dependencies
+Need to get %sB of archives.
+Do you want to continue [Y/n]?
+Deprecated: Please use --safe-upgrade
+Perform operations in the given chroot
+Installed file
+Installed packages
+Updated cache
+Search done
+Removed packages
+Updated packages
+Upgraded system
+Applied changes
+Successful
+Canceled
+Failed
+Installing file
+Installing packages
+Updating cache
+Removing packages
+Updating packages
+Upgrading system
+Applying changes
+Searching
+Search failed
+Check your Internet connection.
+Waiting
+Running task
+Downloading
+Cleaning up
+Finished
+Cancelling
+Installing %s
+Configuring %s
+Removing %s
+Completely removing %s
+Noting disappearance of %s
+Running post-installation trigger %s
+Upgrading %s
+Unpacking %s
+Preparing installation of %s
+Preparing configuration of %s
+Preparing removal of %s
+Installed %s
+Completely removed %s
+Removed %s
+Done
+Authentication failed
+Fetching
+Idle
+Processing %s
+Details
+File
+%
+Downloaded %sB
+Downloaded
+CD/DVD '%s' is required
+C_ontinue
+Install
+Reinstall
+Remove
+Purge
+Upgrade
+Downgrade
+Skip upgrade
+%sB will be downloaded in total.
+%sB of disk space will be freed.
+%sB more disk space will be used.
+_Changes
+_Keep
+_Replace
+_Details
+Waiting for %s to exit
+local repository
+Structure of %s
+Description of %s
+Description signature of %s
+Available packages from %s
+Available sources from %s
+Available translations from %s
+Translations for %s (%s) from %s
+Translations for %s from %s
+Translations (%s) from %s
+Package %s isn't available
+Package %s isn't installed
+The version %s of %s isn't installed
+Package %s is already installed
+The version %s of %s isn't available.
+The keyserver URL is invalid: %s
+Invalid key id: %s
+Failed to download and install the key %s from %s: %s
+Key file %s couldn't be installed: %s
+Key with fingerprint %s couldn't be removed: %s
+Package %s cannot be removed.
+The version %s of %s is not installed
+The former version %s of %s is already installed
+The version %s of %s is already installed
+The version %s of %s isn't available
+The later version %s of %s is already installed
+The package %s isn't available in the %s release.
+Package %s cannot be removed
+The license key already exists: %s
+but %s is installed
+but %s is to be installed
+Pause after downloading files
+Never
+Always
+Automatically upgrade installed packages
+Automatically fix broken packages before installing or removing
+Miscellaneous
+Unable to resolve dependencies.
+[%d(%d)/...] Resolving dependencies
+Internal error: unexpected null solution.
+Suggest %F
+Note: "%s", providing the virtual package "%s", is already installed.
+Note: "%s", providing the virtual package "%s", is already going to be installed.
+"%s" is a virtual package provided by:
+You must choose one to install.
+Note: selecting "%s" instead of the virtual package "%s"
+Note: selecting the task "%s: %s" for installation
+Couldn't find package "%s", and more than 40 packages contain "%s" in their name.
+Couldn't find package "%s". However, the following packages contain "%s" in their name:
+Couldn't find any package whose name or description matched "%s"
+Couldn't find any package matching "%s", and more than 40 packages contain "%s" in their description.
+Couldn't find any package matching "%s". However, the following packages contain "%s" in their description:
+Bad action character '%c'
+Get:
+Can't execute sensible-pager, is this a working Debian system?
+Del %s* %spartial/*
+Del %s %s [%sB]
+Would free %sB of disk space
+Freed %sB of disk space
+Invalid operation %s
+Unexpected pattern argument following "keep-all"
+Abort.
+Can't find a package named "%s"
+No downloadable files for %s version %s; perhaps it is a local or obsolete package?
+Hit
+No such package "%s"
+There are no Easter Eggs in this program.
+There really are no Easter Eggs in this program.
+Stop it!
+Okay, okay, if I give you an Easter Egg, will you go away?
+All right, you win.
+Done
+The following packages will be DOWNGRADED:
+The following packages will be REINSTALLED:
+The following packages will be REMOVED:
+The following packages will be upgraded:
+To continue, type the phrase "%s":
+*** WARNING *** Ignoring these trust violations because %s::CmdLine::Ignore-Trust-Violations is 'true'!
+To continue, enter "%s"; to abort, enter "%s":
+Unrecognized input. Enter either "%s" or "%s".
+No packages will be installed, upgraded, or removed.
+%lu packages upgraded, %lu newly installed,
+%lu reinstalled,
+%lu downgraded,
+%lu to remove and %lu not upgraded.
+Need to get %sB/%sB of archives.
+Need to get %sB of archives.
+After unpacking %sB will be used.
+After unpacking %sB will be freed.
+Press Return to continue.
+abort and quit
+'+' to install packages
+'-' to remove packages
+'_' to purge packages
+Commands:
+Do you want to continue? [Y/n/?]
+Invalid response. Please enter a valid command or '?' for help.
+Dependency information will be shown.
+Dependency information will not be shown.
+Versions will be shown.
+Size changes will be shown.
+Size changes will not be shown.
+Unable to open %s for writing
+Resolver state successfully written!
+Invalid response. Please enter an integer between 1 and %d.
+Expected at least one package/version pair following '%c'
+%s has no version named "%s"
+Allowing the removal of %s
+Allowing the installation of %s version %s (%s)
+Rejecting the removal of %s
+Rejecting the installation of %s version %s (%s)
+No longer requiring the installation of %s version %s (%s)
+Requiring the removal of %s
+Requiring the installation of %s version %s (%s)
+Action "%s"
+Resolving dependencies...
+Accept this solution? [Y/n/q/?]
+No solution found within the allotted time. Try harder? [Y/n]
+Invalid response; please enter 'y' or 'n'.
+Unable to resolve dependencies! Giving up...
+*** No more solutions available ***
+iconv of %s failed.
+but %s is to be installed.
+but %s is installed and it is kept back.
+but %s is installed.
+or
+The following packages have unmet dependencies:
