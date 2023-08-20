@@ -126,7 +126,7 @@ Train script for 3 datasets:
 python enc_dec_nmt.py \
 --config-path=conf \
 --config-name=aayn_base \
-trainer.devices=1 \
+trainer.devices=4 \
 ~trainer.max_epochs \
 +trainer.max_steps=1000000 \
 model.beam_size=4 \
@@ -159,6 +159,6 @@ model.optim.lr=0.001 \
 +exp_manager.checkpoint_callback_params.monitor=val_sacreBLEU \
 +exp_manager.exp_dir=saved_models/nemo_km_en_3_datasets \
 +exp_manager.checkpoint_callback_params.mode=max \
-+exp_manager.checkpoint_callback_params.save_top_k=5 \
-+exp_manager.checkpoint_callback_params.always_save_nemo=True
+exp_manager.checkpoint_callback_params.save_top_k=5 \
+exp_manager.checkpoint_callback_params.always_save_nemo=True
 ```
