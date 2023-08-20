@@ -121,3 +121,44 @@ model.optim.lr=0.001 \
 +exp_manager.checkpoint_callback_params.save_top_k=5 \
 +exp_manager.checkpoint_callback_params.always_save_nemo=True
 ```
+Train script for 3 datasets:
+```
+python enc_dec_nmt.py \
+--config-path=conf \
+--config-name=aayn_base \
+trainer.devices=1 \
+~trainer.max_epochs \
++trainer.max_steps=1000000 \
+model.beam_size=4 \
+model.max_generation_delta=5 \
+model.label_smoothing=0.1 \
+model.encoder_tokenizer.tokenizer_model=tarred_datasets/tarred_3_merged_datasets_km_en_tokens_16384/tokenizer.encoder.32000.BPE.model \
+model.decoder_tokenizer.tokenizer_model=tarred_datasets/tarred_3_merged_datasets_km_en_tokens_16384/tokenizer.decoder.32000.BPE.model \
+model.encoder.inner_size=2048 \
+model.encoder.ffn_dropout=0.1 \
+model.decoder.num_layers=6 \
+model.decoder.hidden_size=512 \
+model.decoder.inner_size=2048 \
+model.decoder.num_attention_heads=8 \
+model.decoder.ffn_dropout=0.1 \
+model.train_ds.use_tarred_dataset=true \
+model.preproc_out_dir=tarred_datasets/tarred_3_merged_datasets_km_en_tokens_16384 \
+model.train_ds.metadata_file=tarred_datasets/tarred_3_merged_datasets_km_en_tokens_16384/metadata.tokens.16384.json \
+model.train_ds.shard_strategy=scatter \
+model.train_ds.tokens_in_batch=16384 \
+model.validation_ds.src_file_name=preprocessed_data/val.merged_data.km \
+model.validation_ds.tgt_file_name=preprocessed_data/val.merged_data.en \
+model.validation_ds.tokens_in_batch=16384 \
+model.test_ds.src_file_name=preprocessed_data/test.merged_data.km \
+model.test_ds.tgt_file_name=preprocessed_data/test.merged_data.en \
+model.optim.lr=0.001 \
++exp_manager.create_wandb_logger=True \
++exp_manager.wandb_logger_kwargs.name=exp-nemo_km_en_3_datasets \
++exp_manager.wandb_logger_kwargs.project=nemo_km_en_3_datasets \
++exp_manager.create_checkpoint_callback=True \
++exp_manager.checkpoint_callback_params.monitor=val_sacreBLEU \
++exp_manager.exp_dir=saved_models/nemo_km_en_3_datasets \
++exp_manager.checkpoint_callback_params.mode=max \
++exp_manager.checkpoint_callback_params.save_top_k=5 \
++exp_manager.checkpoint_callback_params.always_save_nemo=True
+```
