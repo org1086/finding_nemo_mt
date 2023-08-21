@@ -1,0 +1,12 @@
+Format: 
+- source sentence
+- target sentence
+-----------------------------------------------------------------------------------------------
+
+- เมียน มนึฮ มเนียะ คเว็น โม ปฺี กเนฺิด เมียน กฺี แซญ มนึฮ คเว็น นุฮ โม ตุก น็อฺง มุก ทเวียร นุฮ เรือ็ล ไง ( ทเวียร นุฮ ชม็วฮ ทา ทเวียร ละออฺ ) พฺือ โม เนิว็ จำ ซม เตียน ปฺี โพง เนียะ แดล โจล เติว็ น็อฺง ปเรียฮ วิเฮียร
+- A man who had been born lame was being carried to the temple door. Each day he was placed beside this door, known as the Beautiful Gate. He sat there and begged from the people who were going in.
+
+- เนียง ฮาการ แดล ปรฺีบ เปฺิน็ ซันยา แดล โม ปฺี พนม ซีไน น็อฺง ประตฺีฮ อาระเบีย นุฮ ก็ ปรฺีบ ตฺีด เปฺิน็ มฺืง เยรูซาเล็ม แดล เนิว็ น็อฺง ประตฺีฮ อิซราเอล ซ็อฺบ ไง นิฮ ต็อฺง มฺืง นิฮ น็อฺง โพง เนียะ มฺืง พอฺง เกฺิด กันเจีย็ฮ
+- Hagar also stands for Mount Sinai in Arabia and for the present city of Jerusalem. She and her children are slaves.
+
+
