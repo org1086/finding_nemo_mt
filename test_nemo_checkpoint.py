@@ -1,9 +1,9 @@
 from nemo.collections.nlp.models import MTEncDecModel
 
 # load PTL checkpoint
-model = MTEncDecModel.load_from_checkpoint("saved_models/nemo-en-km/AAYNBase/2023-08-17_10-51-31/checkpoints/AAYNBase--val_sacreBLEU=2.4263-epoch=318.ckpt")
+model = MTEncDecModel.load_from_checkpoint("saved_models/nemo_km_en_3_datasets_bpe8000/AAYNBase--val_sacreBLEU=6.5572-epoch=217.ckpt")
 
 # Translate a sentence or list of sentences
-translations = model.translate(["一年多前，有份刊物嘱我写稿，题目已经指定了出来：“如果你只有三个月的寿命，你将会去做些什么事？”我想了很久，一直没有去答这份考卷"], source_lang="km", target_lang="en")
+translations = model.translate(["អ៊ីតាលី បាន ឈ្នះ លើ ព័រទុយហ្គាល់ 31-5 ក្នុង ប៉ូល C នៃ ពិធី ប្រកួត ពាន រង្វាន់ ពិភព លោក នៃ កីឡា បាល់ ឱប ឆ្នាំ 2007 ដែល ប្រព្រឹត្ត នៅ ប៉ាស ឌេស ប្រីន ក្រុង ប៉ារីស បារាំង ។"], source_lang="km", target_lang="en")
 
 print (translations)
